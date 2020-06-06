@@ -3,6 +3,7 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import os
 
 name_list = [
     'TIGER 미국다우존스30', 
@@ -67,7 +68,9 @@ scope = [
     'https://spreadsheets.google.com/feeds',
     'https://www.googleapis.com/auth/drive'
 ]
-json = './99_Web_Crawling/06_StockPrice_Crawler/my-project-1550060360364-dd05317fea55.json'
+
+path = os.path.dirname(__file__)
+json = os.path.join(path, 'my-project-1550060360364-dd05317fea55.json')
 credentials = ServiceAccountCredentials.from_json_keyfile_name(json, scope)
 
 gc = gspread.authorize(credentials)
