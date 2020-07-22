@@ -91,7 +91,7 @@ KOR_ticker <-
 
 files_path <- 
   paste0(
-    "/03_R을_이용한_퀀트_투자_포트폴리오_만들기",
+    "/02_R_Quant_Portfolio_Investment",
     "/Chapter_05",
     "/files/"
   )
