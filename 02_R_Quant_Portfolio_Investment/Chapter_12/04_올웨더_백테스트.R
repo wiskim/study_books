@@ -10,8 +10,7 @@ symbols = c('TLT',
             'IEF',
             'VT',
             'GLD',
-            'DBC'
-)
+            'DBC')
 getSymbols(symbols, src = 'yahoo', from = '2008-07-01')
 
 prices = do.call(cbind, lapply(symbols, function(x) Ad(get(x)))) %>% 
@@ -45,7 +44,6 @@ write.csv(data.frame(portfolio$returns),
 ep = endpoints(rets, on = 'months')
 wts = list()
 lookback = 12
-wt_zero = rep(0, 5) %>% setNames(colnames(rets))
 
 for (i in (lookback+1) : length(ep)) {
   sub_ret = rets[ep[i-lookback] : ep[i], ]
