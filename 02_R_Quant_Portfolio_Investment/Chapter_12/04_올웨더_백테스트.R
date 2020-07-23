@@ -1,10 +1,7 @@
 library(quantmod)
 library(PerformanceAnalytics)
-library(RiskPortfolios)
 library(cccp)
-library(tidyr)
 library(dplyr)
-library(ggplot2)
 
 symbols = c('TLT',
             'IEF',
@@ -28,6 +25,12 @@ portfolio = Return.portfolio(R = rets,
 
 charts.PerformanceSummary(portfolio$returns,
                           main = '순정 올웨더')
+
+Return.cumulative(portfolio$returns)
+Return.annualized(portfolio$returns)
+SharpeRatio.annualized(portfolio$returns)
+table.Drawdowns(portfolio$returns)
+apply.yearly(portfolio$returns, Return.cumulative)
 
 write.csv(data.frame(portfolio$returns),
           paste0(getwd(),
@@ -62,6 +65,12 @@ portfolio = Return.portfolio(rets, wts, verbose = TRUE)
 
 charts.PerformanceSummary(portfolio$returns, 
                           main = "리스크 패리티 올웨더")
+
+Return.cumulative(portfolio$returns)
+Return.annualized(portfolio$returns)
+SharpeRatio.annualized(portfolio$returns)
+table.Drawdowns(portfolio$returns)
+apply.yearly(portfolio$returns, Return.cumulative)
 
 write.csv(data.frame(portfolio$returns),
           paste0(getwd(),
