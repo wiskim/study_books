@@ -30,12 +30,13 @@ portfolio = Return.portfolio(R = rets,
 charts.PerformanceSummary(portfolio$returns,
                           main = '순정 올웨더')
 
-write.csv(portfolio$returns,
+write.csv(data.frame(portfolio$returns),
           paste0(getwd(),
                  '/02_R_Quant_Portfolio_Investment',
                  '/Chapter_12',
                  '/files',
                  '/allWeather_original.csv'),
+          row.names = TRUE,
           fileEncoding = 'UTF-8')
 
 
@@ -64,10 +65,11 @@ portfolio = Return.portfolio(rets, wts, verbose = TRUE)
 charts.PerformanceSummary(portfolio$returns, 
                           main = "리스크 패리티 올웨더")
 
-write.csv(portfolio$returns,
+write.csv(data.frame(portfolio$returns),
           paste0(getwd(),
                  '/02_R_Quant_Portfolio_Investment',
                  '/Chapter_12',
                  '/files',
                  '/allWeather_riskparity.csv'),
+          row.names = TRUE,
           fileEncoding = 'UTF-8')
