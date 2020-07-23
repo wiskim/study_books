@@ -1,0 +1,73 @@
+library(quantmod)
+library(PerformanceAnalytics)
+library(RiskPortfolios)
+library(cccp)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+
+symbols = c('TLT',
+            'IEF',
+            'VT',
+            'GLD',
+            'DBC'
+)
+getSymbols(symbols, src = 'yahoo', from = '2008-07-01')
+
+prices = do.call(cbind, lapply(symbols, function(x) Ad(get(x)))) %>% 
+  setNames(symbols)
+
+rets = Return.calculate(prices) %>% na.omit()
+
+
+# 순정 올웨더 백테스트
+
+portfolio = Return.portfolio(R = rets,
+                             weights = c(0.4, 0.15, 0.3, 0.075, 0.075),
+                             rebalance_on = 'years',
+                             verbose = TRUE)
+
+charts.PerformanceSummary(portfolio$returns,
+                          main = '순정 올웨더')
+
+write.csv(portfolio$returns,
+          paste0(getwd(),
+                 '/02_R_Quant_Portfolio_Investment',
+                 '/Chapter_12',
+                 '/files',
+                 '/allWeather_original.csv'),
+          fileEncoding = 'UTF-8')
+
+
+# 리스크 패리티 올웨더 백테스트
+
+ep = endpoints(rets, on = 'months')
+wts = list()
+lookback = 12
+wt_zero = rep(0, 5) %>% setNames(colnames(rets))
+
+for (i in (lookback+1) : length(ep)) {
+  sub_ret = rets[ep[i-lookback] : ep[i], ]
+  covmat = cov(sub_ret)
+  opt = rp(x0 = rep(0.2, 5),
+           P = covmat,
+           mrc = rep(0.2, 5))
+  wt = getx(opt) %>% drop()
+  wt = (wt / sum(wt)) %>% round(., 4)
+  wts[[i]] = xts(t(wt), order.by = index(rets[ep[i]]))
+}
+
+wts = do.call(rbind, wts) %>% setNames(symbols)
+
+portfolio = Return.portfolio(rets, wts, verbose = TRUE)
+
+charts.PerformanceSummary(portfolio$returns, 
+                          main = "리스크 패리티 올웨더")
+
+write.csv(portfolio$returns,
+          paste0(getwd(),
+                 '/02_R_Quant_Portfolio_Investment',
+                 '/Chapter_12',
+                 '/files',
+                 '/allWeather_riskparity.csv'),
+          fileEncoding = 'UTF-8')
