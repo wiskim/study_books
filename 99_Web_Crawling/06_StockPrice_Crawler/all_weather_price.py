@@ -46,7 +46,7 @@ scope = [
 ]
 
 path = os.path.dirname(__file__)
-json = os.path.join(path, 'my-project-1550060360364-dd05317fea55.json')
+json = os.path.join(path, 'my-project-1550060360364-f758ca00dc50.json')
 credentials = ServiceAccountCredentials.from_json_keyfile_name(json, scope)
 
 gc = gspread.authorize(credentials)
