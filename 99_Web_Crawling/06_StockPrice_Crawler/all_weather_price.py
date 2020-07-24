@@ -10,7 +10,7 @@ nameList = [
     '원달러환율'
     'iShares 20+ Year Treasury Bond ETF', 
     'iShares 7-10 Year Treasury Bond ETF',
-    'SPDR S&P 500 ETF',
+    'Vanguard Total World Stock ETF',
     'iShares Gold Trust',
     'Invesco DB Commodity Tracking'
 ]
@@ -19,7 +19,7 @@ tickerList = [
     'USD/KRW',
     'TLT', 
     'IEF',
-    'SPY',
+    'VT',
     'IAU',
     'DBC'
 ]
