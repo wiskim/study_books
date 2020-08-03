@@ -80,3 +80,54 @@ write.csv(data.frame(portfolio$returns),
                  '/allWeather_riskparity.csv'),
           row.names = TRUE,
           fileEncoding = 'UTF-8')
+
+
+# 단테 올웨더 백테스트
+
+symbols = c(
+  'VT',    # 전세계주식
+  'EDV',   # 제로쿠폰장기채
+  'VCLT',  # 회사장기채
+  'EMLC',  # 이머징국가장기채(로컬화폐)
+  'LTPZ',  # 물가연동장기채
+  'DBC',   # 원자재 (BCI가 2017년에 상장, 장기 백테스트를 위해 DBC로 바꿈)
+  'IAU'    # 금
+)
+getSymbols(symbols, src = 'yahoo')
+
+prices = do.call(cbind, lapply(symbols, function(x) Ad(get(x)))) %>% 
+  setNames(symbols)
+
+rets = Return.calculate(prices) %>% na.omit()
+
+library(tidyr)
+library(corrplot)
+
+cor(rets) %>% 
+  corrplot(method = 'color', type = 'upper',
+           addCoef.col = 'black', number.cex = 0.7,
+           tl.cex = 0.6, tl.srt = 45, tl.col = 'black',
+           col = colorRampPalette(c('blue', 'white', 'red'))(200),
+           mar = c(0, 0, 0.5, 0))
+
+portfolio = Return.portfolio(R = rets,
+                             weights = c(
+                               0.400,   # VT
+                               0.250,   # EDV
+                               0.075,   # VCLT
+                               0.075,   # EMLC
+                               0.100,   # LTPZ
+                               0.050,   # BCI
+                               0.050    # IAU
+                             ),
+                             rebalance_on = 'years',
+                             verbose = TRUE)
+
+charts.PerformanceSummary(portfolio$returns,
+                          main = '단테 올웨더')
+
+Return.cumulative(portfolio$returns)
+Return.annualized(portfolio$returns)
+SharpeRatio.annualized(portfolio$returns)
+table.Drawdowns(portfolio$returns)
+apply.yearly(portfolio$returns, Return.cumulative)
