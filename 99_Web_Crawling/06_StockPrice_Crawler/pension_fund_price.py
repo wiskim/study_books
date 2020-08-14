@@ -14,7 +14,8 @@ name_list = [
     'KOSEF 국고채10년',
     'KODEX 미국채10년선물',
     'KODEX 골드선물(H)',
-    'KODEX 미디어&엔터테인먼트'
+    'KODEX 미디어&엔터테인먼트',
+    'KODEX 헬스케어'
 ]
 
 ticker_list = [
@@ -26,7 +27,8 @@ ticker_list = [
     '148070',
     '308620',
     '132030',
-    '266360'
+    '266360',
+    '266420'
 ]
 
 result_df = pd.DataFrame()
