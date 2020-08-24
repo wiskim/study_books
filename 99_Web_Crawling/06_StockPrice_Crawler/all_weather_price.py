@@ -12,7 +12,8 @@ nameList = [
     'iShares 7-10 Year Treasury Bond ETF',
     'Vanguard Total World Stock ETF',
     'iShares Gold Trust',
-    'Invesco DB Commodity Tracking'
+    'Invesco DB Commodity Tracking',
+    'PIMCO 15Y US TIPS ETF'
 ]
 
 tickerList = [
@@ -21,7 +22,8 @@ tickerList = [
     'IEF',
     'VT',
     'IAU',
-    'DBC'
+    'DBC',
+    'LTPZ'
 ]
 
 resultDf = pd.DataFrame()
