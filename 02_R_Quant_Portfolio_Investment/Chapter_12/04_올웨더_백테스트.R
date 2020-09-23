@@ -4,7 +4,7 @@ library(cccp)
 library(dplyr)
 
 symbols = c('TLT',
-            'IEF',
+            'LTPZ',
             'VT',
             'GLD',
             'DBC')
@@ -19,7 +19,7 @@ rets = Return.calculate(prices) %>% na.omit()
 # 순정 올웨더 백테스트
 
 portfolio = Return.portfolio(R = rets,
-                             weights = c(0.4, 0.15, 0.3, 0.075, 0.075),
+                             weights = c(0.35, 0.15, 0.35, 0.075, 0.075),
                              rebalance_on = 'years',
                              verbose = TRUE)
 
