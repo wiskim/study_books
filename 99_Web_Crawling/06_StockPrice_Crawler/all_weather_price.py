@@ -30,11 +30,13 @@ resultDf = pd.DataFrame()
 
 for i in range(0, len(tickerList)):
     priceList = fdr.DataReader(
-        tickerList[i], '2020-01-01', today
+        tickerList[i], '2021-01-01', today
     )
     priceList = priceList['Close']
     resultDf[tickerList[i]] = priceList
 
+resultDf.reset_index(inplace=True)
+resultDf.rename(columns={'index':'DATE'}, inplace=True)
 print(resultDf.iloc[-1,:])
 
 # %%
@@ -59,6 +61,6 @@ worksheet = doc.worksheet('periodPrice')
 
 gd.set_with_dataframe(worksheet,
                       resultDf,
-                      include_index = True)
+                      include_index = False)
 
 print('copied to GoogleSpreadSheet')

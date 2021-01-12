@@ -62,6 +62,7 @@ for i in range(len(ticker_list)):
     ohlc_df.set_index('DATE', inplace = True)
     result_df = pd.concat([result_df, ohlc_df], axis=1, sort=True)
 
+result_df = result_df.reset_index()
 print(result_df.tail())
 
 # 구글스프레드시트로 붙이기
@@ -87,6 +88,6 @@ worksheet = doc.worksheet('periodPrice')
 
 gd.set_with_dataframe(worksheet,
                       result_df,
-                      include_index = True)
+                      include_index = False)
 
 print("copied to GoogleSpreadSheet")
