@@ -1,9 +1,13 @@
+# %%
 # 네이버에서 주가 정보 크롤링
 
+import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import os
+import datetime
+from tabulate import tabulate
 
 name_list = [
     'TIGER 미국다우존스30', 
@@ -62,9 +66,21 @@ for i in range(len(ticker_list)):
     ohlc_df.set_index('DATE', inplace = True)
     result_df = pd.concat([result_df, ohlc_df], axis=1, sort=True)
 
-result_df = result_df.reset_index()
-print(result_df.tail())
+# %%
+change_df = result_df.iloc[-2:, :]
+change_df.index = pd.Series(change_df.index).apply(
+    lambda x: datetime.datetime.strftime(x, '%Y-%m-%d')
+)
+change_df.index.name = None
+change_df = change_df.apply(pd.to_numeric)
+change_df = change_df.transpose()
+change_df['Change'] = (change_df.iloc[:, 0] / change_df.iloc[:, 1] - 1) * 100
+change_df['Change'] = np.round(change_df['Change'], 2)
+print(tabulate(change_df, headers='keys', tablefmt='psql'))
 
+result_df = result_df.reset_index()
+
+#%%
 # 구글스프레드시트로 붙이기
 
 import gspread

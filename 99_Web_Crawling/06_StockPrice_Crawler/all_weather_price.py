@@ -1,8 +1,10 @@
 # %%
 import os
 import datetime
+import numpy as np
 import pandas as pd
 import FinanceDataReader as fdr
+from tabulate import tabulate
 
 today = datetime.datetime.now().strftime('%Y-%m-%d')
 
@@ -35,9 +37,22 @@ for i in range(0, len(tickerList)):
     priceList = priceList['Close']
     resultDf[tickerList[i]] = priceList
 
+# %%
+resultDf = resultDf.dropna()
+
+changeDf = resultDf.iloc[-2:, :]
+changeDf.index = pd.Series(changeDf.index).apply(
+    lambda x: datetime.datetime.strftime(x, '%Y-%m-%d')
+)
+changeDf.index.name = None
+changeDf = changeDf.apply(pd.to_numeric)
+changeDf = changeDf.transpose()
+changeDf['Change'] = (changeDf.iloc[:, 0] / changeDf.iloc[:, 1] - 1) * 100
+changeDf['Change'] = np.round(changeDf['Change'], 2)
+print(tabulate(changeDf, headers='keys', tablefmt='psql'))
+
 resultDf.reset_index(inplace=True)
 resultDf.rename(columns={'index':'DATE'}, inplace=True)
-print(resultDf.iloc[-1,:])
 
 # %%
 import gspread
