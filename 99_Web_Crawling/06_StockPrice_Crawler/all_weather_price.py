@@ -47,7 +47,7 @@ changeDf.index = pd.Series(changeDf.index).apply(
 changeDf.index.name = None
 changeDf = changeDf.apply(pd.to_numeric)
 changeDf = changeDf.transpose()
-changeDf['Change'] = (changeDf.iloc[:, 0] / changeDf.iloc[:, 1] - 1) * 100
+changeDf['Change'] = (changeDf.iloc[:, 1] / changeDf.iloc[:, 0] - 1) * 100
 changeDf['Change'] = np.round(changeDf['Change'], 2)
 print(tabulate(changeDf, headers='keys', tablefmt='psql'))
 
