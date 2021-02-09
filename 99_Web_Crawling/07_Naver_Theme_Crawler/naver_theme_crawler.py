@@ -16,14 +16,14 @@ for i in range(6):
     params = {'page':str(i)}
     response = requests.get(url, params)
     soup = BeautifulSoup(response.text, 'lxml')
-    pageThemeNm = [i.get_text() for i in soup.find_all('a', {'href':re.compile(r'^/sise/sise_group_detail')})]
-    pageThemeCd = [i['href'] for i in soup.find_all('a', {'href':re.compile(r'^/sise/sise_group_detail')})]
+    pageThemeNm = [i.get_text() for i in soup.find_all('a', {'href':re.compile('^/sise/sise_group_detail')})]
+    pageThemeCd = [i['href'] for i in soup.find_all('a', {'href':re.compile('^/sise/sise_group_detail')})]
     themeNm += pageThemeNm
     themeCd += pageThemeCd
     time.sleep(0.5)
 
 themeDf = pd.DataFrame(list(zip(themeCd, themeNm)), columns='themeCd, themeNm'.split(', '))
-themeDf['themeCd'] = themeDf.themeCd.str.extract(r'(\d+)').astype('int')
+themeDf['themeCd'] = themeDf.themeCd.str.extract('(\d+)').astype('int')
 themeDf = themeDf.sort_values('themeCd', ignore_index=True)
 # %%
 # 각 테마별 종목 크롤링
@@ -45,7 +45,7 @@ for i in range(len(themeDf['themeCd'])):
     themeStockDf = themeStockDf.append(pageThemeStockDf, ignore_index=True)
     time.sleep(0.5)
 
-themeStockDf['stockCd'] = themeStockDf.stockCd.str.extract(r'(\d+)')
+themeStockDf['stockCd'] = themeStockDf.stockCd.str.extract('(\d+)')
 themeStockDf['stockCd'] = themeStockDf.stockCd.str.rjust(7, 'A')
 
 # %%
