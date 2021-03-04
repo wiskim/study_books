@@ -78,4 +78,101 @@ gd.set_with_dataframe(worksheet,
                       resultDf,
                       include_index = False)
 
-print('copied to GoogleSpreadSheet')
+worksheet = doc.worksheet('periodPortValue')
+sheet_id = worksheet._properties['sheetId']
+
+last_row = len(list(filter(None, worksheet.col_values(1)))) + 1
+last_col = worksheet.col_count
+last_date = worksheet.cell(last_row, 1).value
+last_date_index = resultDf.loc[resultDf.Date == last_date].index[0]   # 250 거래일을 초과하여 업데이트할 경우 오류가 발생
+total_date_no = len(resultDf.index)
+n = total_date_no - (last_date_index + 1)
+
+if n > 0:
+    body = {
+        'requests': [
+            {
+                'copyPaste': {
+                    'source': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': int(last_row - 1),
+                        'endRowIndex': last_row,
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col
+                    },
+                    'destination': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': last_row,
+                        'endRowIndex': int(last_row + n),
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col                    
+                    },
+                    'pasteType': 'PASTE_FORMULA'
+                }
+            }
+        ]
+    }
+    res = doc.batch_update(body)
+
+    update_range = 'A' + str(last_row + 1) + ':' + 'A' + str(last_row + n)
+    date_list = resultDf['Date'][-n:].to_list()
+    date_list = [[date.strftime('%Y-%m-%d %H:%M:%S.%f')] for date in date_list]
+    worksheet.update(update_range, date_list, value_input_option='USER_ENTERED')
+
+    body = {
+        'requests': [
+            {
+                'copyPaste': {
+                    'source': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': int(last_row - 1),
+                        'endRowIndex': last_row,
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col
+                    },
+                    'destination': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': last_row,
+                        'endRowIndex': int(last_row + n),
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col                    
+                    },
+                    'pasteType': 'PASTE_FORMAT'
+                }
+            }
+        ]
+    }
+    res = doc.batch_update(body)
+
+    worksheet = doc.worksheet('ytdChart')
+    sheet_id = worksheet._properties['sheetId']
+
+    last_row = len(list(filter(None, worksheet.col_values(1))))
+    last_col = worksheet.col_count
+
+    body = {
+        'requests': [
+            {
+                'copyPaste': {
+                    'source': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': int(last_row - 1),
+                        'endRowIndex': last_row,
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col
+                    },
+                    'destination': {
+                        'sheetId': sheet_id,
+                        'startRowIndex': last_row,
+                        'endRowIndex': int(last_row + n),
+                        'startColumnIndex': 0,
+                        'endColumnIndex': last_col                    
+                    },
+                    'pasteType': 'PASTE_FORMULA'
+                }
+            }
+        ]
+    }
+    res = doc.batch_update(body)
+
+print("The Google Spreadsheet has been updated.")
