@@ -10,31 +10,33 @@ import datetime
 from tabulate import tabulate
 
 name_list = [
-    'TIGER 미국다우존스30', 
+    'TIGER 미국다우존스30',
+    'KINDEX 미국S&P500',
+    'TIGER 미국S&P500',
     'TIGER 미국나스닥100',
     'ARIRANG 신흥국MSCI(합성 H)',
     'TIGER 200',
+    'KODEX 미디어&엔터테인먼트',
+    'KODEX 헬스케어',
     'TIGER 부동산인프라고배당',
     'KOSEF 국고채10년',
     'KODEX 미국채10년선물',
-    'KODEX 골드선물(H)',
-    'KODEX 미디어&엔터테인먼트',
-    'KODEX 헬스케어',
-    'KINDEX 미국S&P500'
+    'KODEX 골드선물(H)'
 ]
 
 ticker_list = [
     '245340', 
+    '360200',
+    '360750',
     '133690',
     '195980',
     '102110',
+    '266360',
+    '266420',
     '329200',
     '148070',
     '308620',
-    '132030',
-    '266360',
-    '266420',
-    '360200'
+    '132030'
 ]
 
 result_df = pd.DataFrame()
