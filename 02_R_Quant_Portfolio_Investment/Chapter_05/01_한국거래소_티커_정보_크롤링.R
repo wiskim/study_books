@@ -4,18 +4,12 @@ library(tidyverse)
 
 # KRX [20004] 산업분류 크롤링
 
-url <- "https://finance.naver.com/sise/sise_deposit.nhn"
+url <- "https://finance.naver.com/sise/sise_index.nhn?code=KOSPI"
 today <- str_replace_all(Sys.Date(), "-", "")
 biz_date <-
   GET(url) %>%
   read_html(encoding = "euc-kr") %>%
-  html_node(
-    xpath =
-      paste0(
-        "/html/body/div[3]/div[1]/div[2]/div[1]",
-        "/div[2]/div[1]/div/ul[2]/li/span"
-      )
-  ) %>%
+  html_node(xpath = '//*[@id="time"]') %>%
   html_text() %>%
   str_extract("[0-9.]+") %>%
   str_replace_all("\\.", "")
