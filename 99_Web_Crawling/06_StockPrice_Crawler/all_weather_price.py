@@ -32,7 +32,7 @@ resultDf = pd.DataFrame()
 
 for i in range(0, len(tickerList)):
     priceList = fdr.DataReader(
-        tickerList[i], '2021-12-01', today
+        tickerList[i], '2021-12-31', today
     )
     priceList = priceList['Close']
     resultDf[tickerList[i]] = priceList
