@@ -1,9 +1,11 @@
 # %%
 import os
 import datetime
+import urllib
+import requests
+import csv
 import numpy as np
 import pandas as pd
-import FinanceDataReader as fdr
 from tabulate import tabulate
 
 today = datetime.datetime.now().strftime('%Y-%m-%d')
@@ -19,7 +21,7 @@ nameList = [
 ]
 
 tickerList = [
-    'USD/KRW',
+    'KRW=X',
     'TLT', 
     'IEF',
     'VT',
@@ -28,13 +30,43 @@ tickerList = [
     'LTPZ'
 ]
 
+def getYF(ticker, dt1, dt2):
+
+    dt1 = datetime.datetime.strptime(dt1, '%Y-%m-%d').timestamp()
+    dt2 = datetime.datetime.strptime(dt2, '%Y-%m-%d').timestamp()
+    url = 'https://query1.finance.yahoo.com/v7/finance/download/'
+    url += ticker
+    params = {
+        'period1' : int(dt1),
+        'period2' : int(dt2),
+        'interval' : '1d',
+        'events' : 'history',
+        'includeAdjustedClose' : 'true'
+    }
+    headers = {
+            'USER-AGENT' : 'Mozilla/5.0'
+    }
+    res = requests.get(url, params, headers=headers)
+    decodedContent = res.content.decode('UTF-8')
+    cr = csv.reader(decodedContent.splitlines(), delimiter=',')
+    ohlcRecord = list(cr)
+    ohlcHeader = ohlcRecord[0]
+    ohlcData = ohlcRecord[1:]
+    ohlcDf = pd.DataFrame.from_records(data=ohlcData, columns=ohlcHeader)
+
+    ohlcDf.Date = pd.to_datetime(ohlcDf.Date)
+    ohlcDf.set_index('Date', inplace=True)
+    ohlcDf = ohlcDf.apply(lambda x : pd.to_numeric(x.str.replace(',', '')))
+    
+    return ohlcDf
+
 resultDf = pd.DataFrame()
 
 for i in range(0, len(tickerList)):
-    priceList = fdr.DataReader(
+    priceList = getYF(
         tickerList[i], '2021-12-31', today
     )
-    priceList = priceList['Close']
+    priceList = priceList['Adj Close']
     resultDf[tickerList[i]] = priceList
 
 # %%
