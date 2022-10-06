@@ -1,7 +1,6 @@
 # %%
 import os
 import datetime
-import urllib
 import requests
 import csv
 import numpy as np
@@ -44,7 +43,7 @@ def getYF(ticker, dt1, dt2):
         'includeAdjustedClose' : 'true'
     }
     headers = {
-            'USER-AGENT' : 'Mozilla/5.0'
+        'USER-AGENT' : 'Mozilla/5.0'
     }
     res = requests.get(url, params, headers=headers)
     decodedContent = res.content.decode('UTF-8')
