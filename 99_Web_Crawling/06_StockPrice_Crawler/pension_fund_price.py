@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import warnings
 import os
 import datetime
 from tabulate import tabulate
@@ -40,6 +41,8 @@ ticker_list = [
 ]
 
 result_df = pd.DataFrame()
+
+warnings.filterwarnings('ignore', category=UserWarning, module='bs4')
 
 for i in range(len(ticker_list)):
     
