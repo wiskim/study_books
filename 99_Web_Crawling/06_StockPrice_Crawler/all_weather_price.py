@@ -53,10 +53,9 @@ def getYF(ticker, dt1, dt2):
     ohlcData = ohlcRecord[1:]
     ohlcDf = pd.DataFrame.from_records(data=ohlcData, columns=ohlcHeader)
 
-    ohlcDf = ohlcDf.dropna()
     ohlcDf.Date = pd.to_datetime(ohlcDf.Date)
     ohlcDf.set_index('Date', inplace=True)
-    ohlcDf = ohlcDf.apply(lambda x : pd.to_numeric(x.str.replace(',', '')))
+    ohlcDf = ohlcDf.apply(lambda x : pd.to_numeric(x.str.replace(',', ''), errors='coerce'))
     
     return ohlcDf
 
@@ -70,6 +69,8 @@ for i in range(0, len(tickerList)):
     resultDf[tickerList[i]] = priceList
 
 # %%
+resultDf = resultDf.dropna()
+
 changeDf = resultDf.iloc[-2:, :]
 changeDf.index = pd.Series(changeDf.index).apply(
     lambda x: datetime.datetime.strftime(x, '%Y-%m-%d')
