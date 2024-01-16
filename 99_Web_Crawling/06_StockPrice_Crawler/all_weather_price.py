@@ -63,7 +63,7 @@ resultDf = pd.DataFrame()
 
 for i in range(0, len(tickerList)):
     priceList = getYF(
-        tickerList[i], '2021-12-31', today
+        tickerList[i], '2022-12-31', today
     )
     priceList = priceList['Adj Close']
     resultDf[tickerList[i]] = priceList
