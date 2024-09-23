@@ -2,7 +2,7 @@
 import os
 import datetime
 import requests
-import csv
+import json
 import numpy as np
 import pandas as pd
 from tabulate import tabulate
@@ -33,7 +33,7 @@ def getYF(ticker, dt1, dt2):
 
     dt1 = datetime.datetime.strptime(dt1, '%Y-%m-%d').timestamp()
     dt2 = datetime.datetime.strptime(dt2, '%Y-%m-%d').timestamp()
-    url = 'https://query1.finance.yahoo.com/v7/finance/download/'
+    url = 'https://query1.finance.yahoo.com/v8/finance/chart/'
     url += ticker
     params = {
         'period1' : int(dt1),
@@ -47,15 +47,22 @@ def getYF(ticker, dt1, dt2):
     }
     res = requests.get(url, params, headers=headers)
     decodedContent = res.content.decode('UTF-8')
-    cr = csv.reader(decodedContent.splitlines(), delimiter=',')
-    ohlcRecord = list(cr)
-    ohlcHeader = ohlcRecord[0]
-    ohlcData = ohlcRecord[1:]
-    ohlcDf = pd.DataFrame.from_records(data=ohlcData, columns=ohlcHeader)
+    js = json.loads(decodedContent)
 
-    ohlcDf.Date = pd.to_datetime(ohlcDf.Date)
+    date = js['chart']['result'][0]['timestamp']
+    high = js['chart']['result'][0]['indicators']['quote'][0]['high']
+    volume = js['chart']['result'][0]['indicators']['quote'][0]['volume']
+    close = js['chart']['result'][0]['indicators']['quote'][0]['close']
+    open = js['chart']['result'][0]['indicators']['quote'][0]['open']
+    low = js['chart']['result'][0]['indicators']['quote'][0]['low']
+    adjclose = js['chart']['result'][0]['indicators']['adjclose'][0]['adjclose']
+
+    ohlcDf = pd.DataFrame(
+        list(zip(date, open, high, low, close, adjclose, volume)), 
+        columns=['Date', 'Open', 'High', 'Low', 'Close', 'AdjClose', 'Volume']
+        )
+    ohlcDf.Date = pd.to_datetime(ohlcDf.Date, unit='s').dt.normalize()
     ohlcDf.set_index('Date', inplace=True)
-    ohlcDf = ohlcDf.apply(lambda x : pd.to_numeric(x.str.replace(',', ''), errors='coerce'))
     
     return ohlcDf
 
@@ -65,7 +72,7 @@ for i in range(0, len(tickerList)):
     priceList = getYF(
         tickerList[i], '2022-12-31', today
     )
-    priceList = priceList['Adj Close']
+    priceList = priceList['AdjClose']
     resultDf[tickerList[i]] = priceList
 
 # %%
