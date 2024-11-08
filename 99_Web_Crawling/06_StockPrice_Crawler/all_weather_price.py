@@ -155,7 +155,7 @@ if n > 0:
     update_range = 'A' + str(last_row + 1) + ':' + 'A' + str(last_row + n)
     date_list = resultDf['Date'][-n:].to_list()
     date_list = [[date.strftime('%Y-%m-%d %H:%M:%S.%f')] for date in date_list]
-    worksheet.update(update_range, date_list, value_input_option='USER_ENTERED')
+    worksheet.update(range_name=update_range, values=date_list, value_input_option='USER_ENTERED')
 
     body = {
         'requests': [
