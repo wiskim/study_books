@@ -1,22 +1,28 @@
-# folder
+# IDE settings
 .vscode/
-.venv/
-/**/.ipynb_checkpoints/
-02_R_Quant_Portfolio_Investment/Chapter_05/files/
-02_R_Quant_Portfolio_Investment/Chapter_06/files/
-02_R_Quant_Portfolio_Investment/Chapter_07/files/
-02_R_Quant_Portfolio_Investment/Chapter_08/files/
-02_R_Quant_Portfolio_Investment/Chapter_09/files/
-02_R_Quant_Portfolio_Investment/Chapter_10/files/
-02_R_Quant_Portfolio_Investment/Chapter_11/files/
-02_R_Quant_Portfolio_Investment/Chapter_12/files/
-99_Web_Crawling/03_APT_Trade_Data_Crawler_R/file/
-99_Web_Crawling/03_APT_Trade_Data_Crawler_Py/file/
+.idea/
 
-# file
-/**/study_books.Rproj
-/**/.RData
-/**/.Rhistory
-/**/my-project-1550060360364-f758ca00dc50.json
-.Rproj.user
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.jupyter/
+*/.jupyter/
+*.ipynb metadata
+
+# R files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Project specific folders
+02_R_Quant_Portfolio_Investment/Chapter_*/files/
+99_Web_Crawling/03_APT_Trade_Data_Crawler_*/file/
 /07_Programing_and_Data/Midterm/*.csv
+/**/my-project-1550060360364-f758ca00dc50.json
