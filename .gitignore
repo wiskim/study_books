@@ -10,9 +10,10 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+**/.ipynb_metadata
+*.ipynb_metadata
 .jupyter/
-*/.jupyter/
-*.ipynb metadata
+**/.jupyter/
 
 # R files
 .Rproj.user/
