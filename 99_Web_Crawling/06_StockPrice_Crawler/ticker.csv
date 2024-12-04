@@ -1,0 +1,55 @@
+﻿NAME,TICKER,CATEGORY
+S&P500,^GSPC,Country
+나스닥,^IXIC,Country
+다우존스,^DJI,Country
+한국,EWY,Country
+일본,EWJ,Country
+중국본토,ASHR,Country
+대만,EWT,Country
+베트남,SPY,Country
+인니,EIDO,Country
+인도,INDA,Country
+독일,EWG,Country
+프랑스,EWQ,Country
+영국,EWU,Country
+멕시코,EWW,Country
+브라질,EWZ,Country
+정보기술,VGT,Sector
+커뮤니케이션,VOX,Sector
+헬스케어,VHT,Sector
+금융,VFH,Sector
+필수소비재,VDC,Sector
+산업재,VIS,Sector
+임의소비재,VCR,Sector
+부동산,VNQ,Sector
+유틸리티,VPU,Sector
+소재,VAW,Sector
+에너지,VDE,Sector
+Microsoft,MSFT,M7
+Apple,AAPL,M7
+Alphabet,GOOG,M7
+Amzon,AMZN,M7
+Nvidia,NVDA,M7
+Meta,META,M7
+Tesla,TSLA,M7
+Netflix,NFLX,M7
+원유 (WTI),USO,Commodity
+금,IAU,Commodity
+구리,CPER,Commodity
+밀,WEAT,Commodity
+옥수수,CORN,Commodity
+대두,SOYB,Commodity
+미국 국채 (1-3Y),SHY,Bond
+미국 국채 (3-7Y),IEI,Bond
+미국 국채 (7-10Y),IEF,Bond
+미국 국채 (20Y-),TLT,Bond
+미국 물가채,TIP,Bond
+미국 하이일드,HYG,Bond
+이머징 달러채권,EMB,Bond
+한국,KRW=X,Currency
+일본,JPY=X,Currency
+중국,CNY=X,Currency
+유로,EUR=X,Currency
+영국,GBP=X,Currency
+브라질,BRL=X,Currency
+인도,INR=X,Currency
