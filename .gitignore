@@ -25,6 +25,6 @@ ENV/
 # Project specific folders
 02_R_Quant_Portfolio_Investment/Chapter_*/files/
 99_Web_Crawling/03_APT_Trade_Data_Crawler_*/file/
-/07_Programing_and_Data/Midterm/*.csv
 /05_Programing_and_Data/Midterm/*.csv
+/05_Programing_and_Data/Final/*.xlsx
 /**/my-project-1550060360364-f758ca00dc50.json
