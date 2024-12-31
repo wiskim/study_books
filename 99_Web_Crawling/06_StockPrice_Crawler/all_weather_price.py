@@ -79,15 +79,13 @@ for i in range(0, len(tickerList)):
 resultDf = resultDf.dropna()
 
 changeDf = resultDf.iloc[-2:, :]
-changeDf.index = pd.Series(changeDf.index).apply(
-    lambda x: datetime.datetime.strftime(x, '%Y-%m-%d')
-)
+changeDf.index = pd.Index(pd.Series(changeDf.index).apply(lambda x: datetime.datetime.strftime(x, '%Y-%m-%d')))
 changeDf.index.name = None
 changeDf = changeDf.apply(pd.to_numeric)
 changeDf = changeDf.transpose()
 changeDf['Change'] = (changeDf.iloc[:, 1] / changeDf.iloc[:, 0] - 1) * 100
 changeDf['Change'] = np.round(changeDf['Change'], 2)
-print(tabulate(changeDf, headers='keys', tablefmt='psql'))
+print(tabulate(changeDf.values.tolist(), headers=changeDf.columns.tolist(), tablefmt='psql'))
 
 resultDf.reset_index(inplace=True)
 resultDf.rename(columns={'index':'DATE'}, inplace=True)
@@ -95,7 +93,7 @@ resultDf.rename(columns={'index':'DATE'}, inplace=True)
 # %%
 import gspread
 import gspread_dataframe as gd
-from oauth2client.service_account import ServiceAccountCredentials
+from google.oauth2.service_account import Credentials
 
 scope = [
     'https://spreadsheets.google.com/feeds',
@@ -103,8 +101,8 @@ scope = [
 ]
 
 path = os.path.dirname(__file__)
-json = os.path.join(path, 'my-project-1550060360364-f758ca00dc50.json')
-credentials = ServiceAccountCredentials.from_json_keyfile_name(json, scope)
+js = os.path.join(path, 'my-project-1550060360364-f758ca00dc50.json')
+credentials = Credentials.from_service_account_file(js, scopes=scope)
 
 gc = gspread.authorize(credentials)
 
