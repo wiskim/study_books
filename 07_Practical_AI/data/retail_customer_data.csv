@@ -1,0 +1,1629 @@
+Customer ID,Customer Age,Omni Customer,Total Visits,Avg Spending ($),Customer City,Customer State,Device Type,Has Used Promotions
+BE156,40,No,2,249.59,Charlotte,NC,Windows,No
+WB452,34,Yes,1,246.59,New York,NY,Windows,Yes
+EW850,25,Yes,1,245.05,San Francisco,CA,iOS,Yes
+VY667,33,No,1,243.81,Chicago,IL,iOS,No
+ZL488,56,Yes,2,240.75,Jacksonville,FL,Android,No
+OP735,44,Yes,1,235.19,Indianapolis,IN,Android,No
+AL494,30,No,2,234.86,Phoenix,AZ,iOS,No
+IJ192,45,Yes,1,230.81,Los Angeles,CA,Windows,Yes
+AO112,23,No,1,228.64,Fort Worth,TX,Windows,Yes
+AX514,34,No,1,228.17,Indianapolis,IN,Android,No
+BF467,32,No,2,225.48,Houston,TX,Android,Yes
+TL879,34,Yes,1,220.47,Denver,CO,Windows,Yes
+JV579,23,Yes,1,219.89,San Jose,CA,Android,Yes
+PD146,34,No,1,217.85,Jacksonville,FL,Windows,Yes
+UH209,37,No,2,217.08,Austin,TX,iOS,No
+DI627,38,Yes,2,216.7,Los Angeles,CA,Windows,Yes
+AN851,23,No,2,201.12,Indianapolis,IN,Android,No
+BC670,31,No,1,196,Phoenix,AZ,Windows,Yes
+UT771,34,No,2,191.55,Philadelphia,PA,Windows,Yes
+LL634,23,No,2,188.3,Dallas,TX,Android,Yes
+YU109,33,Yes,2,187.67,Seattle,WA,Windows,No
+JT480,25,No,2,184.76,Philadelphia,PA,Android,Yes
+UA360,23,Yes,1,182.47,Austin,TX,iOS,No
+KC458,31,No,1,181.03,Columbus,OH,Windows,No
+MU641,50,No,1,179.23,Los Angeles,CA,Windows,Yes
+GP982,24,No,2,178.63,Fort Worth,TX,Android,No
+RM899,24,No,1,178.61,Phoenix,AZ,Android,Yes
+FU763,47,No,1,174.1,Washington,DC,iOS,Yes
+IA182,38,Yes,2,173.74,Seattle,WA,iOS,Yes
+XL826,39,Yes,2,170.03,San Antonio,TX,iOS,No
+ZT206,31,No,2,166.71,Columbus,OH,iOS,Yes
+HI751,31,Yes,2,160.54,Washington,DC,Android,No
+ZM195,42,Yes,1,160.16,San Jose,CA,iOS,Yes
+RO913,31,No,1,159.69,Houston,TX,Android,Yes
+VS493,48,Yes,1,157.79,San Diego,CA,Android,Yes
+GD118,25,No,2,153.22,Phoenix,AZ,iOS,Yes
+VN550,38,No,1,152.29,Phoenix,AZ,Windows,No
+JG454,34,Yes,1,146.47,San Francisco,CA,iOS,Yes
+AN544,33,No,1,145.36,Phoenix,AZ,Windows,Yes
+DL468,43,No,2,143.78,Houston,TX,Android,Yes
+KW691,41,No,2,140.32,Los Angeles,CA,Android,Yes
+AA712,26,Yes,2,138.62,San Diego,CA,Windows,No
+MU400,37,No,2,135.8,San Jose,CA,Android,Yes
+FB798,35,Yes,2,133.08,San Antonio,TX,iOS,Yes
+PI761,31,No,1,131.38,San Jose,CA,Windows,No
+PE864,23,No,2,130.63,San Diego,CA,iOS,No
+QB959,25,No,1,129.89,Denver,CO,Android,No
+HR835,28,Yes,2,129.03,Seattle,WA,Windows,No
+WR898,36,No,1,128.49,Seattle,WA,iOS,Yes
+BK238,40,No,1,128.22,San Antonio,TX,Android,Yes
+SV327,24,Yes,2,126.88,Denver,CO,iOS,Yes
+LN772,32,No,1,126.86,Austin,TX,Android,Yes
+VF296,38,No,2,119.1,San Francisco,CA,Windows,Yes
+FH128,24,No,2,114.8,Chicago,IL,iOS,Yes
+KZ537,40,Yes,1,113.47,Charlotte,NC,Windows,Yes
+DB250,25,No,2,112.65,Jacksonville,FL,iOS,No
+WN435,23,No,1,111.94,Los Angeles,CA,Android,Yes
+QO627,27,No,1,110.38,Los Angeles,CA,Android,Yes
+SK503,35,No,1,109.45,Jacksonville,FL,Android,No
+PS950,46,No,2,109.39,Columbus,OH,Windows,Yes
+SS709,35,No,1,104.94,Jacksonville,FL,Android,No
+EU503,35,No,1,103.94,Jacksonville,FL,Android,Yes
+EE334,28,No,1,102.74,Fort Worth,TX,Windows,Yes
+FK392,36,Yes,1,102.09,Denver,CO,iOS,Yes
+AK443,36,No,2,99.29,Charlotte,NC,Android,Yes
+ZW800,31,Yes,1,90.63,Los Angeles,CA,Android,Yes
+NY427,46,Yes,1,89.56,San Antonio,TX,Windows,Yes
+PT200,27,No,2,88.43,San Francisco,CA,iOS,Yes
+VK714,51,No,1,84.73,Charlotte,NC,Android,Yes
+QE686,23,Yes,2,83.62,San Antonio,TX,iOS,Yes
+DD904,49,Yes,9,79.97,Fort Worth,TX,iOS,Yes
+KY489,50,No,24,79.95,San Jose,CA,Android,Yes
+CK922,30,Yes,7,79.85,Indianapolis,IN,Windows,Yes
+GB346,29,No,4,79.85,San Francisco,CA,iOS,No
+RU274,26,Yes,24,79.76,San Jose,CA,Windows,Yes
+FC379,37,Yes,10,79.74,Houston,TX,Android,No
+MN401,42,No,15,79.62,New York,NY,Android,Yes
+OQ222,43,Yes,35,79.61,San Diego,CA,Android,Yes
+MH590,50,No,9,79.57,Phoenix,AZ,Android,No
+MB472,28,Yes,36,79.54,Indianapolis,IN,Windows,Yes
+EF294,23,No,11,79.5,Seattle,WA,Android,No
+FJ887,32,Yes,31,79.49,New York,NY,Windows,Yes
+GY879,29,Yes,9,79.48,Austin,TX,Windows,No
+PV594,48,No,36,79.48,Dallas,TX,Windows,Yes
+QB881,38,Yes,39,79.44,Charlotte,NC,iOS,No
+VB813,23,No,40,79.38,San Jose,CA,Android,No
+HL794,35,No,22,79.3,Denver,CO,iOS,Yes
+MH694,28,Yes,35,79.29,Columbus,OH,Windows,Yes
+HA747,23,No,16,79.29,Chicago,IL,Windows,Yes
+CS849,23,No,15,79.22,Columbus,OH,iOS,Yes
+BH898,30,No,24,79.22,Austin,TX,Android,Yes
+JP645,33,No,35,79.17,Seattle,WA,Android,Yes
+MJ610,31,Yes,31,79.15,San Antonio,TX,iOS,No
+BK301,31,No,38,79.13,Los Angeles,CA,iOS,Yes
+DI981,35,Yes,27,79.13,San Diego,CA,Android,Yes
+YB385,25,Yes,25,78.99,San Francisco,CA,Windows,Yes
+LU670,33,No,20,78.97,Phoenix,AZ,iOS,Yes
+JS637,26,Yes,19,78.97,San Francisco,CA,Android,Yes
+NQ574,27,No,40,78.94,Washington,DC,Android,Yes
+WL374,33,No,13,78.91,Los Angeles,CA,Windows,No
+KA852,38,No,3,78.77,Austin,TX,Android,Yes
+CB662,40,Yes,5,78.76,San Francisco,CA,Windows,Yes
+KB118,30,No,4,78.75,Austin,TX,iOS,Yes
+TS177,52,No,21,78.74,Charlotte,NC,Windows,No
+HQ541,23,No,37,78.7,Fort Worth,TX,Windows,No
+YD148,36,No,34,78.57,Charlotte,NC,Android,No
+RZ633,50,Yes,25,78.52,San Jose,CA,Windows,No
+EV365,55,No,15,78.41,Los Angeles,CA,iOS,No
+QK755,29,Yes,14,78.4,San Francisco,CA,Android,Yes
+OZ691,31,No,39,78.39,Austin,TX,Android,Yes
+LH451,33,No,34,78.3,Indianapolis,IN,iOS,Yes
+VV769,34,Yes,11,78.28,San Diego,CA,Windows,No
+ZR211,44,No,36,78.27,Columbus,OH,Windows,No
+JJ893,24,No,12,78.26,Fort Worth,TX,Android,No
+DM345,30,Yes,7,78.23,Dallas,TX,Windows,Yes
+GE695,23,Yes,26,78.22,Jacksonville,FL,iOS,Yes
+JL300,23,No,3,78.07,Los Angeles,CA,iOS,Yes
+LK304,45,No,4,78.01,Los Angeles,CA,iOS,Yes
+TN561,40,No,33,78,Austin,TX,Android,Yes
+UD100,35,No,9,77.99,Austin,TX,Windows,Yes
+NP390,46,Yes,29,77.95,San Francisco,CA,Android,No
+OH103,55,No,12,77.94,Phoenix,AZ,Android,No
+WP111,36,Yes,32,77.85,Austin,TX,Windows,No
+IY148,45,No,19,77.78,Columbus,OH,iOS,No
+RH258,44,No,6,77.78,Chicago,IL,iOS,Yes
+RZ920,23,No,24,77.77,San Francisco,CA,iOS,Yes
+NL500,25,No,8,77.76,San Francisco,CA,iOS,Yes
+GP746,45,No,5,77.73,San Francisco,CA,Android,Yes
+WV859,52,No,37,77.68,Chicago,IL,iOS,No
+AH623,33,No,23,77.59,Phoenix,AZ,Android,Yes
+MU314,45,Yes,36,77.54,San Diego,CA,Android,Yes
+QP167,43,No,39,77.41,San Antonio,TX,iOS,Yes
+QO971,35,No,40,77.31,Jacksonville,FL,iOS,Yes
+PA301,45,No,29,77.3,Phoenix,AZ,iOS,No
+NQ246,26,No,39,77.26,Austin,TX,Android,Yes
+PI387,29,Yes,35,77.25,Phoenix,AZ,Android,Yes
+EE582,31,Yes,18,77.19,San Francisco,CA,Android,Yes
+XB961,39,No,33,77.12,Washington,DC,Windows,No
+ER613,32,Yes,18,77.06,Phoenix,AZ,iOS,No
+FN717,39,No,39,76.99,Chicago,IL,iOS,Yes
+DL293,36,No,28,76.97,Phoenix,AZ,iOS,Yes
+CK825,44,No,19,76.97,Fort Worth,TX,Windows,Yes
+BL379,23,No,14,76.95,Philadelphia,PA,Android,Yes
+AM169,46,No,33,76.89,New York,NY,iOS,Yes
+BM368,24,Yes,40,76.89,Philadelphia,PA,Android,No
+LD451,30,No,26,76.87,San Jose,CA,Android,Yes
+UX750,65,No,38,76.84,San Diego,CA,iOS,No
+KA722,44,No,30,76.77,Indianapolis,IN,Android,Yes
+FB843,33,No,10,76.76,Philadelphia,PA,Android,Yes
+PZ155,37,No,24,76.66,Indianapolis,IN,iOS,Yes
+TW992,40,No,11,76.53,Los Angeles,CA,Android,Yes
+EE823,43,Yes,30,76.47,Columbus,OH,iOS,Yes
+GC284,43,No,33,76.47,Seattle,WA,iOS,Yes
+FC403,32,Yes,39,76.45,Seattle,WA,Windows,Yes
+SH437,30,No,6,76.37,Philadelphia,PA,Android,No
+WU587,37,No,27,76.34,Charlotte,NC,Windows,Yes
+WD435,57,No,20,76.3,Denver,CO,iOS,No
+MA315,37,No,10,76.28,Columbus,OH,Windows,No
+GE258,23,Yes,12,76.25,Fort Worth,TX,Windows,Yes
+VQ536,32,No,9,76.21,San Francisco,CA,iOS,Yes
+QH189,43,Yes,17,76.2,Phoenix,AZ,Android,Yes
+VK186,49,Yes,40,76.2,New York,NY,Windows,Yes
+XD672,32,No,39,76.08,San Francisco,CA,Windows,No
+QX705,27,No,1,76.05,Phoenix,AZ,iOS,Yes
+SO328,36,No,37,76.05,Jacksonville,FL,Android,No
+HC752,42,Yes,7,76.03,Chicago,IL,Android,No
+TX712,43,No,4,75.99,San Jose,CA,Android,Yes
+BJ155,33,No,24,75.98,Dallas,TX,Windows,Yes
+CN539,34,No,37,75.95,Jacksonville,FL,Windows,No
+UD958,33,No,27,75.89,Seattle,WA,iOS,No
+KZ394,37,No,37,75.79,San Antonio,TX,Android,Yes
+UM972,33,Yes,23,75.77,Dallas,TX,iOS,No
+NM497,24,Yes,40,75.73,Philadelphia,PA,Windows,Yes
+ZU937,25,No,11,75.73,Denver,CO,Windows,No
+KB258,49,No,39,75.66,San Jose,CA,Android,Yes
+GF820,30,Yes,3,75.65,San Francisco,CA,Windows,Yes
+OT545,29,No,15,75.61,Austin,TX,iOS,No
+UV292,24,Yes,3,75.56,Houston,TX,iOS,Yes
+JD605,23,No,12,75.56,Washington,DC,iOS,Yes
+ZT526,27,No,33,75.54,Austin,TX,iOS,No
+AJ461,47,No,31,75.53,San Jose,CA,iOS,Yes
+FX487,43,Yes,22,75.46,Fort Worth,TX,iOS,Yes
+MU254,45,No,40,75.46,Denver,CO,iOS,Yes
+DG847,35,Yes,40,75.41,Indianapolis,IN,Windows,Yes
+FO419,23,No,34,75.37,San Francisco,CA,Android,No
+YT487,34,No,21,75.35,Phoenix,AZ,iOS,No
+PT492,36,No,30,75.34,Charlotte,NC,iOS,No
+YI503,29,No,29,75.34,Houston,TX,iOS,Yes
+RB740,42,No,29,75.33,San Francisco,CA,iOS,Yes
+GM450,44,No,4,75.32,Columbus,OH,Android,Yes
+QD318,23,Yes,34,75.3,San Jose,CA,Windows,Yes
+FH510,32,Yes,39,75.28,Dallas,TX,Android,Yes
+JV978,33,No,10,75.28,Washington,DC,Android,Yes
+PB847,32,No,17,75.28,Philadelphia,PA,Windows,Yes
+JV208,29,No,4,75.27,Jacksonville,FL,Windows,Yes
+DI432,31,No,4,75.26,Charlotte,NC,Android,No
+CD963,28,No,8,75.22,San Antonio,TX,Windows,No
+FC309,24,Yes,38,75.21,New York,NY,iOS,No
+FQ906,33,No,25,75.21,Charlotte,NC,iOS,Yes
+PA814,31,No,12,75.16,San Diego,CA,iOS,No
+TP693,40,No,19,75.14,Jacksonville,FL,Android,Yes
+EN449,27,No,29,75.12,Seattle,WA,Windows,Yes
+PM316,37,Yes,10,75.09,Fort Worth,TX,iOS,Yes
+VY982,33,Yes,11,75.09,Columbus,OH,iOS,Yes
+AV351,50,No,11,75.09,Dallas,TX,Android,Yes
+OB331,23,Yes,3,75.08,Columbus,OH,Windows,No
+UU497,31,No,27,75.07,Austin,TX,Android,Yes
+OX791,33,No,10,75.05,Austin,TX,iOS,Yes
+RA863,29,Yes,25,75.03,Houston,TX,iOS,No
+JT124,28,No,17,75.03,Dallas,TX,Android,Yes
+FY527,31,Yes,6,75.01,Dallas,TX,Windows,Yes
+BO449,41,No,9,75.01,Philadelphia,PA,Windows,Yes
+DG203,23,No,8,75.01,Jacksonville,FL,Windows,Yes
+GX849,50,Yes,20,75,Seattle,WA,Windows,No
+HR106,40,Yes,39,74.96,Dallas,TX,iOS,Yes
+XN179,27,Yes,7,74.96,Phoenix,AZ,Android,Yes
+HL475,41,No,21,74.95,San Jose,CA,Android,Yes
+TY143,31,No,14,74.9,Houston,TX,Windows,Yes
+EN336,28,Yes,14,74.85,Chicago,IL,Windows,No
+RV930,42,No,6,74.83,Chicago,IL,Android,No
+GS928,44,No,22,74.74,Phoenix,AZ,Windows,Yes
+ST135,23,No,34,74.72,Phoenix,AZ,iOS,Yes
+XR376,35,No,31,74.67,Denver,CO,Windows,Yes
+XE507,40,Yes,18,74.62,Los Angeles,CA,Android,No
+EJ126,40,No,18,74.59,Charlotte,NC,Windows,Yes
+WQ512,26,No,3,74.51,Washington,DC,Android,Yes
+RG732,29,No,39,74.51,San Jose,CA,Android,No
+YX224,23,No,24,74.46,Columbus,OH,Windows,Yes
+QE878,27,No,24,74.36,San Jose,CA,iOS,Yes
+GU796,38,Yes,32,74.35,Charlotte,NC,Windows,Yes
+DO478,23,Yes,12,74.33,Washington,DC,Android,Yes
+ZG615,26,Yes,26,74.3,Chicago,IL,iOS,No
+OO609,33,No,11,74.27,San Jose,CA,Windows,Yes
+ZJ611,44,No,13,74.26,Dallas,TX,Android,Yes
+DK950,30,No,21,74.23,Indianapolis,IN,Android,Yes
+EO227,59,Yes,29,74.19,Denver,CO,Windows,Yes
+QS218,33,No,9,74.17,San Antonio,TX,Windows,Yes
+LH941,42,No,39,74.02,Chicago,IL,iOS,Yes
+SK702,23,Yes,29,73.84,Phoenix,AZ,Android,Yes
+VT629,34,No,30,73.84,Philadelphia,PA,iOS,Yes
+UT880,23,No,35,73.83,Jacksonville,FL,iOS,No
+QF628,23,Yes,21,73.8,Charlotte,NC,Windows,Yes
+PH754,26,No,7,73.75,Dallas,TX,Android,Yes
+NH678,48,No,27,73.74,Charlotte,NC,Android,Yes
+ZT543,47,No,5,73.68,Columbus,OH,Android,No
+JL535,40,No,4,73.64,New York,NY,iOS,No
+BO250,23,No,10,73.64,San Jose,CA,iOS,Yes
+CB201,51,No,10,73.53,Chicago,IL,iOS,Yes
+YV224,32,Yes,36,73.5,Jacksonville,FL,iOS,No
+PC764,33,Yes,36,73.38,New York,NY,Android,Yes
+VR679,34,No,25,73.34,San Francisco,CA,iOS,Yes
+TX268,23,No,33,73.29,Philadelphia,PA,Windows,Yes
+SG907,42,Yes,40,73.21,Austin,TX,Windows,No
+XX190,27,No,21,73.1,Dallas,TX,Windows,Yes
+SK477,35,No,9,72.99,San Diego,CA,Android,Yes
+CY165,37,Yes,26,72.95,Jacksonville,FL,iOS,Yes
+DM898,27,Yes,23,72.89,San Jose,CA,iOS,Yes
+PY296,32,Yes,40,72.85,Chicago,IL,Android,Yes
+BD386,29,Yes,15,72.74,Austin,TX,Android,Yes
+AX166,26,No,3,72.7,Los Angeles,CA,iOS,No
+BE626,24,No,38,72.63,Houston,TX,Android,No
+SS221,23,Yes,29,72.52,Seattle,WA,Windows,Yes
+UY679,31,No,23,72.51,Denver,CO,Windows,Yes
+PN875,33,No,31,72.49,Fort Worth,TX,Android,Yes
+QK833,44,No,27,72.46,San Antonio,TX,Android,Yes
+FU916,31,Yes,37,72.43,Chicago,IL,Windows,Yes
+VG645,41,No,13,72.34,Washington,DC,Windows,Yes
+VD678,34,Yes,28,72.32,San Antonio,TX,Windows,Yes
+YJ486,48,No,6,72.31,New York,NY,iOS,No
+FK506,37,Yes,12,72.3,Houston,TX,Windows,No
+RA313,23,No,9,72.28,Washington,DC,Windows,Yes
+MT564,42,No,19,72.27,Washington,DC,Android,No
+KG602,23,Yes,30,72.23,Chicago,IL,Windows,Yes
+YO269,23,Yes,20,72.19,Philadelphia,PA,iOS,No
+DG900,35,Yes,22,72.15,Indianapolis,IN,iOS,No
+LV236,28,Yes,36,72.1,Houston,TX,Android,Yes
+XA614,42,Yes,14,72.1,Fort Worth,TX,Windows,Yes
+MS736,35,No,11,71.94,Austin,TX,iOS,No
+IS318,46,No,18,71.93,Charlotte,NC,Android,No
+RM579,23,No,10,71.9,Philadelphia,PA,Android,No
+YT254,23,No,36,71.9,Denver,CO,iOS,Yes
+HW142,29,No,29,71.86,Jacksonville,FL,iOS,Yes
+BG535,23,Yes,3,71.77,San Diego,CA,iOS,Yes
+BN957,25,Yes,8,71.76,Charlotte,NC,iOS,Yes
+YC401,37,No,39,71.75,Seattle,WA,Android,Yes
+JV198,42,No,19,71.64,Washington,DC,iOS,No
+LN898,34,Yes,37,71.61,Indianapolis,IN,Android,Yes
+XG405,43,Yes,27,71.61,San Jose,CA,iOS,Yes
+LS996,47,No,11,71.6,Jacksonville,FL,Windows,Yes
+MM681,26,No,14,71.59,Los Angeles,CA,Android,No
+UC331,46,No,36,71.58,Austin,TX,Android,Yes
+IC434,43,No,9,71.57,Chicago,IL,Windows,Yes
+GY973,49,Yes,23,71.56,San Antonio,TX,iOS,Yes
+TP771,24,Yes,33,71.54,San Diego,CA,iOS,No
+CU135,37,No,30,71.53,Charlotte,NC,iOS,Yes
+NI308,42,No,17,71.48,Charlotte,NC,Android,Yes
+CA742,47,No,13,71.47,Charlotte,NC,Windows,No
+TR325,31,No,11,71.4,Denver,CO,iOS,Yes
+GJ581,43,No,12,71.38,San Diego,CA,Android,No
+OU191,24,Yes,11,71.33,Dallas,TX,Android,Yes
+BG325,23,Yes,12,71.31,Fort Worth,TX,Android,No
+GI592,30,No,7,71.24,Jacksonville,FL,Windows,Yes
+BU854,23,Yes,31,71.15,Seattle,WA,Windows,Yes
+QA283,39,No,35,71.05,Columbus,OH,Android,Yes
+PZ920,40,No,21,71.04,Los Angeles,CA,Android,Yes
+MC802,23,Yes,8,71.03,Dallas,TX,iOS,No
+HQ145,40,Yes,32,70.97,San Francisco,CA,Windows,Yes
+HC756,39,No,34,70.88,Charlotte,NC,iOS,Yes
+OC593,29,No,27,70.85,Denver,CO,iOS,Yes
+PQ821,23,No,36,70.83,Jacksonville,FL,iOS,Yes
+ZL531,41,No,37,70.83,Indianapolis,IN,Android,No
+LJ482,26,No,5,70.72,Charlotte,NC,Windows,No
+HY937,26,No,36,70.7,Indianapolis,IN,Windows,No
+WD297,46,Yes,25,70.67,Columbus,OH,iOS,Yes
+ZO466,28,No,4,70.66,Jacksonville,FL,iOS,Yes
+AL415,40,No,6,70.66,San Diego,CA,Windows,Yes
+OR738,34,Yes,11,70.6,San Diego,CA,Windows,Yes
+TL842,48,Yes,35,70.58,Dallas,TX,iOS,No
+ZG351,23,No,31,70.58,Denver,CO,iOS,Yes
+EZ945,48,No,38,70.56,Chicago,IL,Windows,Yes
+ZZ217,42,Yes,20,70.55,Washington,DC,iOS,Yes
+QZ960,38,No,31,70.39,Charlotte,NC,iOS,No
+RX195,32,No,3,70.35,Philadelphia,PA,Android,Yes
+SV994,47,Yes,385,70.29,Indianapolis,IN,iOS,Yes
+RS711,48,No,17,70.29,Charlotte,NC,Android,Yes
+WQ244,47,No,24,70.28,San Antonio,TX,iOS,No
+JO988,31,No,28,70.23,San Jose,CA,Windows,No
+AP373,35,Yes,27,70.21,Columbus,OH,iOS,Yes
+FW506,27,Yes,24,70.21,Columbus,OH,iOS,Yes
+AE456,35,Yes,24,70.18,San Jose,CA,Windows,Yes
+PX844,27,Yes,17,70.18,Indianapolis,IN,iOS,No
+YY903,56,No,19,70.13,Denver,CO,Windows,Yes
+EY660,33,Yes,18,70,San Jose,CA,iOS,Yes
+DO663,34,Yes,13,69.88,Fort Worth,TX,Android,Yes
+CV647,23,No,15,69.79,Seattle,WA,Windows,No
+SC396,42,No,12,69.79,San Antonio,TX,Android,Yes
+YF119,39,Yes,23,69.71,Columbus,OH,iOS,No
+MS987,60,No,31,69.7,Los Angeles,CA,iOS,Yes
+PN585,23,No,36,69.7,Houston,TX,iOS,No
+LP893,23,No,21,69.7,San Diego,CA,iOS,Yes
+HG432,39,No,22,69.69,Fort Worth,TX,Android,Yes
+DD242,23,No,38,69.59,Los Angeles,CA,Android,No
+CJ727,47,No,17,69.58,Denver,CO,Android,No
+XE397,23,No,34,69.54,San Antonio,TX,iOS,Yes
+DR533,43,Yes,9,69.5,San Diego,CA,Windows,Yes
+XC908,32,No,11,69.49,Charlotte,NC,Android,No
+CZ865,55,No,16,69.46,Denver,CO,iOS,Yes
+CB577,39,Yes,38,69.43,Chicago,IL,Android,No
+ZA559,38,No,23,69.43,Columbus,OH,iOS,No
+EU983,33,No,22,69.39,Chicago,IL,Android,No
+MN307,33,Yes,18,69.38,San Diego,CA,iOS,Yes
+SI290,28,Yes,14,69.28,Seattle,WA,Android,No
+QA978,30,Yes,21,69.26,San Jose,CA,Android,Yes
+ZS738,34,No,17,69.18,Jacksonville,FL,Android,No
+ME744,32,Yes,29,69.16,Denver,CO,iOS,Yes
+QU270,25,Yes,10,69.11,Dallas,TX,Android,Yes
+TD146,31,No,21,69.03,San Jose,CA,iOS,No
+KF535,23,No,30,69.03,Columbus,OH,Android,Yes
+AE282,25,No,32,69,Houston,TX,iOS,Yes
+GK419,45,No,28,68.98,Jacksonville,FL,iOS,Yes
+YC540,31,No,23,68.93,Philadelphia,PA,Windows,No
+VG879,36,Yes,12,68.88,Indianapolis,IN,Windows,Yes
+XK584,39,Yes,32,68.79,San Jose,CA,Android,Yes
+JC969,41,No,16,68.75,Washington,DC,Android,Yes
+MM926,61,Yes,36,68.7,Houston,TX,iOS,Yes
+RR980,31,Yes,3,68.64,Los Angeles,CA,iOS,Yes
+SS971,34,Yes,22,68.62,Jacksonville,FL,Android,No
+PB507,24,No,6,68.56,San Diego,CA,iOS,Yes
+FZ556,38,No,37,68.54,Philadelphia,PA,Android,Yes
+KR120,30,No,35,68.54,Seattle,WA,Android,No
+OM555,33,Yes,33,68.53,Los Angeles,CA,Android,Yes
+KP649,23,Yes,23,68.48,Washington,DC,Windows,Yes
+LK648,35,No,24,68.37,New York,NY,Android,No
+EA635,37,No,30,68.35,Indianapolis,IN,Android,Yes
+KU965,31,No,5,68.34,Washington,DC,Android,No
+AH523,47,No,40,68.31,Jacksonville,FL,Android,Yes
+UF856,48,Yes,5,68.27,San Francisco,CA,Windows,Yes
+XU461,41,Yes,16,68.26,Dallas,TX,Android,No
+HG863,36,Yes,4,68.18,San Francisco,CA,iOS,No
+VY764,51,No,27,68.16,Austin,TX,iOS,Yes
+YA884,34,No,16,68.11,Indianapolis,IN,Android,Yes
+LU764,29,No,20,68.02,Philadelphia,PA,iOS,Yes
+UV297,28,No,11,67.87,Charlotte,NC,Android,Yes
+NE342,23,Yes,29,67.86,Phoenix,AZ,iOS,Yes
+MA653,51,No,9,67.85,Dallas,TX,iOS,Yes
+XU410,30,Yes,39,67.82,San Antonio,TX,Windows,Yes
+RU262,23,No,3,67.8,Fort Worth,TX,iOS,Yes
+OB254,27,No,4,67.79,San Jose,CA,iOS,Yes
+RV328,28,No,20,67.7,Washington,DC,Android,Yes
+YR278,32,No,11,67.69,Indianapolis,IN,iOS,Yes
+GI758,41,No,14,67.67,Chicago,IL,Windows,No
+QR380,28,No,5,67.58,Houston,TX,Android,Yes
+LY196,23,No,35,67.55,Indianapolis,IN,iOS,No
+AA212,31,No,12,67.53,Houston,TX,iOS,Yes
+AO548,41,No,31,67.5,Washington,DC,Android,No
+UF221,23,Yes,29,67.48,Austin,TX,iOS,No
+EX786,29,Yes,3,67.4,San Diego,CA,iOS,Yes
+KK470,34,Yes,40,67.27,San Jose,CA,Android,Yes
+RX406,39,Yes,22,67.23,Seattle,WA,Android,No
+QH907,28,No,12,67.17,San Diego,CA,Windows,Yes
+AQ623,32,No,7,67.08,Dallas,TX,Windows,No
+EF572,45,No,28,67.07,Seattle,WA,iOS,Yes
+UU103,48,No,19,67.04,Houston,TX,iOS,Yes
+DI106,43,No,30,66.98,Jacksonville,FL,iOS,Yes
+BZ222,45,No,37,66.97,Houston,TX,Android,Yes
+XZ923,52,No,6,66.8,Los Angeles,CA,Android,No
+WC698,43,Yes,14,66.79,Washington,DC,Windows,No
+HM319,30,Yes,29,66.77,Washington,DC,Windows,No
+GD871,32,No,12,66.77,Seattle,WA,iOS,Yes
+KN945,23,No,33,66.75,New York,NY,iOS,No
+MM460,23,No,33,66.75,San Jose,CA,Android,No
+ZW535,24,No,26,66.71,Philadelphia,PA,Windows,Yes
+WP672,23,No,34,66.66,Phoenix,AZ,Windows,No
+ML258,31,No,38,66.56,Philadelphia,PA,iOS,No
+ST622,27,Yes,10,66.54,San Antonio,TX,Windows,Yes
+FF686,43,No,25,66.47,New York,NY,iOS,Yes
+YH872,37,Yes,17,66.45,Dallas,TX,Windows,Yes
+AE242,35,No,13,66.43,Phoenix,AZ,Android,Yes
+FC446,42,No,27,66.4,Washington,DC,iOS,Yes
+FT590,41,No,32,66.37,San Francisco,CA,Android,Yes
+KB494,48,No,29,66.33,San Francisco,CA,Windows,No
+BO324,47,No,3,66.32,San Jose,CA,iOS,No
+GT439,27,No,29,66.21,Phoenix,AZ,Android,No
+UO676,23,No,16,66.2,San Francisco,CA,Android,No
+XJ314,23,Yes,8,66.11,New York,NY,iOS,Yes
+DL544,37,Yes,8,66.08,Denver,CO,iOS,Yes
+TL337,48,No,7,65.98,Dallas,TX,Android,Yes
+PQ798,35,No,31,65.84,Charlotte,NC,iOS,No
+XW704,39,No,3,65.78,Dallas,TX,Windows,No
+KQ554,45,No,33,65.76,Washington,DC,iOS,Yes
+PY886,37,No,5,65.74,Phoenix,AZ,Windows,Yes
+QV919,44,Yes,17,65.72,Houston,TX,iOS,No
+XB808,29,Yes,12,65.72,Chicago,IL,iOS,Yes
+OG993,23,Yes,5,65.72,Denver,CO,Android,Yes
+UY339,32,No,6,65.69,New York,NY,Windows,No
+YD145,23,Yes,38,65.67,San Jose,CA,Windows,No
+KH392,40,No,32,65.65,Charlotte,NC,Android,Yes
+VV863,51,No,32,65.57,Fort Worth,TX,Android,Yes
+FC501,36,No,30,65.55,New York,NY,Windows,Yes
+LM430,43,Yes,4,65.52,San Diego,CA,Windows,Yes
+LU131,25,No,4,65.51,Charlotte,NC,iOS,No
+HU720,48,Yes,26,65.51,Dallas,TX,iOS,Yes
+DQ259,49,Yes,4,65.43,Austin,TX,Android,No
+YD818,40,No,8,65.42,Charlotte,NC,Android,Yes
+MB333,38,No,10,65.37,San Jose,CA,iOS,Yes
+BI190,23,Yes,13,65.29,Chicago,IL,iOS,Yes
+JV576,35,No,31,65.21,Indianapolis,IN,Android,Yes
+NY119,23,No,13,65.21,Fort Worth,TX,Windows,Yes
+WG426,51,No,27,65.19,Los Angeles,CA,Windows,No
+HZ169,44,Yes,38,65.18,San Jose,CA,Windows,No
+VJ501,36,Yes,37,65.15,Charlotte,NC,Windows,No
+QD239,29,No,3,65.11,Los Angeles,CA,Windows,Yes
+JJ322,28,No,26,65.04,Jacksonville,FL,Android,No
+CP121,27,No,29,64.94,San Diego,CA,Android,Yes
+AM270,43,Yes,19,64.88,Columbus,OH,Android,Yes
+JV995,23,No,31,64.82,Dallas,TX,iOS,No
+GB958,52,No,18,64.82,San Diego,CA,iOS,No
+XL810,30,No,5,64.67,Washington,DC,Android,No
+CF527,27,No,18,64.63,Austin,TX,iOS,Yes
+OS691,39,No,33,64.63,New York,NY,iOS,Yes
+PV523,43,No,28,64.63,Chicago,IL,iOS,Yes
+DW848,26,No,29,64.58,Fort Worth,TX,Windows,Yes
+UE653,38,No,30,64.58,Columbus,OH,Android,Yes
+PC471,27,Yes,20,64.56,Phoenix,AZ,Windows,Yes
+WF630,23,No,13,64.53,San Jose,CA,Android,No
+QH836,35,Yes,22,64.51,Los Angeles,CA,iOS,Yes
+LX334,35,No,38,64.39,Indianapolis,IN,Windows,Yes
+BU767,31,Yes,18,64.33,Columbus,OH,Android,Yes
+NX172,23,Yes,12,64.33,Washington,DC,Android,No
+GD206,30,No,20,64.3,Fort Worth,TX,Android,Yes
+RS772,24,No,17,64.27,Phoenix,AZ,Windows,No
+XI678,33,Yes,10,64.17,Los Angeles,CA,Android,Yes
+JO475,40,No,33,64.15,Jacksonville,FL,Android,Yes
+KZ561,23,No,9,64.1,Dallas,TX,Android,Yes
+PL365,41,Yes,20,64.08,Los Angeles,CA,Android,Yes
+UR639,23,Yes,3,64.07,San Francisco,CA,Android,Yes
+SW919,25,Yes,13,64,Dallas,TX,Android,Yes
+OA666,23,No,4,63.99,Los Angeles,CA,Android,Yes
+NE436,40,Yes,37,63.96,Denver,CO,Windows,No
+NV910,23,No,33,63.94,Dallas,TX,Windows,Yes
+IA910,31,Yes,13,63.92,Fort Worth,TX,Windows,Yes
+DN574,37,Yes,10,63.81,Jacksonville,FL,Windows,Yes
+EZ494,42,No,4,63.77,Philadelphia,PA,Android,No
+BS719,34,No,26,63.75,Indianapolis,IN,Android,Yes
+BQ924,44,Yes,36,63.69,Columbus,OH,Windows,No
+TH554,43,No,22,63.68,Austin,TX,Windows,No
+YH384,23,Yes,21,63.65,Washington,DC,Android,Yes
+XP700,31,No,7,63.65,San Francisco,CA,Windows,Yes
+VY889,48,No,12,63.6,Los Angeles,CA,iOS,Yes
+JI155,37,Yes,14,63.56,Fort Worth,TX,Windows,Yes
+PP297,38,No,35,63.55,New York,NY,iOS,Yes
+GD190,23,Yes,30,63.53,Austin,TX,iOS,No
+JO449,27,No,29,63.47,Indianapolis,IN,Windows,Yes
+AM982,23,No,26,63.42,Denver,CO,iOS,Yes
+QR964,25,No,8,63.37,Austin,TX,Windows,No
+YA175,37,Yes,11,63.36,Seattle,WA,Android,No
+OC591,23,No,12,63.15,Los Angeles,CA,Android,No
+JF662,42,Yes,17,63.13,Indianapolis,IN,Windows,No
+FA310,34,No,14,63.09,San Antonio,TX,Windows,No
+YZ283,38,Yes,31,63.07,San Francisco,CA,Android,Yes
+LO145,31,Yes,21,63.05,Los Angeles,CA,Android,Yes
+ST865,33,Yes,10,63.03,Indianapolis,IN,Android,No
+OY604,23,No,38,63.02,Jacksonville,FL,iOS,No
+HO461,29,Yes,6,63.01,Phoenix,AZ,iOS,Yes
+NC296,31,No,32,62.94,Philadelphia,PA,Android,Yes
+SS581,39,No,16,62.91,Phoenix,AZ,iOS,Yes
+RL550,49,No,14,62.9,Washington,DC,Windows,Yes
+CO825,26,No,8,62.86,Fort Worth,TX,Windows,No
+MS239,53,No,22,62.86,San Jose,CA,iOS,Yes
+RC583,32,Yes,11,62.83,Columbus,OH,Windows,Yes
+KK695,41,Yes,13,62.75,Philadelphia,PA,Android,Yes
+MH634,42,Yes,12,62.75,Columbus,OH,Android,Yes
+IF745,30,Yes,26,62.74,Charlotte,NC,Windows,No
+EU715,37,Yes,26,62.73,Indianapolis,IN,Android,Yes
+UF580,23,No,28,62.68,San Jose,CA,Android,Yes
+FU971,50,No,33,62.66,Phoenix,AZ,Android,Yes
+GG997,27,Yes,33,62.62,Chicago,IL,Android,Yes
+FW818,28,Yes,37,62.58,Phoenix,AZ,Windows,Yes
+KM755,25,No,29,62.56,Seattle,WA,Windows,No
+EE304,50,No,23,62.53,Fort Worth,TX,Windows,Yes
+NM164,41,Yes,40,62.48,Philadelphia,PA,Windows,Yes
+IT984,37,No,37,62.46,Jacksonville,FL,Android,Yes
+KW757,42,No,18,62.45,Columbus,OH,Android,Yes
+PH521,53,No,37,62.39,Jacksonville,FL,Android,No
+UK936,42,No,28,62.36,Los Angeles,CA,iOS,Yes
+WW877,51,Yes,25,62.3,San Antonio,TX,iOS,Yes
+OB638,50,No,25,62.29,Chicago,IL,Windows,Yes
+RL706,30,Yes,23,62.25,Denver,CO,Windows,Yes
+EB312,44,Yes,23,62.2,New York,NY,Android,Yes
+KU237,38,Yes,22,62.17,Indianapolis,IN,Android,Yes
+HC969,51,No,22,62.1,Dallas,TX,Windows,Yes
+NW367,31,No,38,62.02,Houston,TX,Windows,Yes
+GC833,39,Yes,11,62,San Francisco,CA,Android,Yes
+XE962,30,No,24,61.98,Washington,DC,Windows,Yes
+CS531,46,Yes,28,61.95,San Francisco,CA,iOS,Yes
+UM878,27,Yes,22,61.92,San Antonio,TX,iOS,Yes
+HB536,33,No,32,61.87,San Jose,CA,Windows,Yes
+BL466,31,No,30,61.84,Indianapolis,IN,iOS,No
+RM702,23,No,37,61.82,Los Angeles,CA,iOS,Yes
+KH156,34,No,6,61.8,Washington,DC,Windows,No
+HK873,28,No,17,61.77,Indianapolis,IN,iOS,No
+QS166,43,No,17,61.7,Dallas,TX,iOS,Yes
+QY619,32,No,3,61.68,Jacksonville,FL,Windows,Yes
+NW741,36,No,18,61.65,San Diego,CA,iOS,Yes
+OZ138,31,No,18,61.63,Washington,DC,iOS,Yes
+OF910,25,No,10,61.6,San Jose,CA,iOS,Yes
+FO150,38,Yes,5,61.53,Austin,TX,iOS,No
+NE625,35,No,34,61.53,Houston,TX,iOS,Yes
+SC754,50,No,32,61.51,Los Angeles,CA,Android,Yes
+GI798,23,No,12,61.46,Philadelphia,PA,Android,No
+DJ861,55,No,36,61.4,San Francisco,CA,Android,Yes
+UF248,42,Yes,11,61.32,Seattle,WA,iOS,Yes
+SC947,28,Yes,22,61.27,Washington,DC,Windows,No
+CJ220,29,No,25,61.25,Fort Worth,TX,iOS,Yes
+WO615,37,Yes,14,61.25,Philadelphia,PA,Windows,Yes
+SJ518,61,No,12,61.23,Columbus,OH,Windows,Yes
+VO687,23,No,5,61.15,Seattle,WA,iOS,Yes
+AR911,46,Yes,16,61.14,Denver,CO,Windows,Yes
+QO314,30,No,30,61.1,Washington,DC,Windows,Yes
+VD215,40,No,14,60.97,Washington,DC,Android,No
+OI255,23,No,31,60.95,San Jose,CA,iOS,Yes
+AU226,39,Yes,40,60.92,Indianapolis,IN,Android,Yes
+TB633,39,No,20,60.9,Jacksonville,FL,Android,Yes
+YP350,38,Yes,34,60.79,Columbus,OH,Android,Yes
+JP905,34,No,30,60.75,Washington,DC,iOS,No
+OS556,37,No,18,60.75,New York,NY,iOS,Yes
+KS715,46,Yes,26,60.71,Fort Worth,TX,Windows,Yes
+BU645,31,No,7,60.71,Charlotte,NC,Android,Yes
+WD488,41,No,14,60.68,Austin,TX,iOS,Yes
+BS388,41,Yes,36,60.68,Philadelphia,PA,Windows,No
+OI765,50,No,26,60.65,Chicago,IL,Windows,Yes
+ZR870,41,Yes,33,60.64,Fort Worth,TX,Android,No
+ZR831,27,No,29,60.6,Houston,TX,Windows,Yes
+JH619,23,No,36,60.59,San Jose,CA,Windows,Yes
+RG453,32,No,40,60.58,San Jose,CA,Windows,No
+IS824,35,No,10,60.53,San Diego,CA,Windows,Yes
+OQ103,26,No,26,60.52,Seattle,WA,Android,No
+OV538,37,No,39,60.51,Los Angeles,CA,iOS,Yes
+KY902,31,Yes,24,60.49,Phoenix,AZ,iOS,Yes
+ZI329,25,No,33,60.48,Columbus,OH,iOS,Yes
+KC848,33,Yes,35,60.45,Chicago,IL,Windows,No
+CK243,32,Yes,38,60.45,Los Angeles,CA,Android,Yes
+UF194,40,Yes,19,60.36,San Francisco,CA,Android,No
+WS772,60,No,21,60.34,Houston,TX,iOS,No
+HU159,51,No,7,60.28,Washington,DC,Windows,No
+LF967,33,Yes,38,60.28,Phoenix,AZ,Android,No
+QY360,42,Yes,21,60.23,Washington,DC,Windows,Yes
+TN110,37,No,36,60.17,Philadelphia,PA,Android,No
+ZC557,45,Yes,31,60.15,Columbus,OH,Android,No
+WX646,31,Yes,24,60.14,San Jose,CA,iOS,Yes
+NT710,23,No,13,60.12,Chicago,IL,Windows,No
+KC457,28,No,38,60.1,Dallas,TX,Windows,Yes
+DV328,56,No,15,60.03,San Jose,CA,Windows,Yes
+VZ378,37,No,7,60.02,Columbus,OH,Windows,Yes
+MT557,29,Yes,13,60,Jacksonville,FL,Windows,No
+TK282,28,No,33,60,Charlotte,NC,Android,Yes
+FM748,32,Yes,35,59.93,Washington,DC,iOS,Yes
+UD425,23,No,4,59.92,San Francisco,CA,Android,Yes
+ZK558,38,Yes,39,59.88,Indianapolis,IN,iOS,Yes
+KO287,33,No,40,59.88,Houston,TX,Android,Yes
+UO631,23,No,12,59.87,New York,NY,Windows,Yes
+KL259,28,Yes,10,59.84,Columbus,OH,Android,Yes
+SS133,28,Yes,14,59.76,Fort Worth,TX,Windows,Yes
+AJ292,28,No,35,59.76,Seattle,WA,iOS,Yes
+CD705,31,No,8,59.76,San Diego,CA,Windows,Yes
+HM883,23,No,10,59.75,New York,NY,Windows,Yes
+BF805,42,No,33,59.72,New York,NY,iOS,Yes
+XG803,28,Yes,11,59.69,San Antonio,TX,iOS,Yes
+KP530,30,Yes,30,59.69,Denver,CO,iOS,No
+GQ692,26,No,21,59.65,Phoenix,AZ,iOS,No
+TD877,23,Yes,36,59.64,San Jose,CA,iOS,No
+GU124,35,Yes,24,59.63,Philadelphia,PA,Android,Yes
+CW781,31,Yes,29,59.62,Austin,TX,iOS,Yes
+OB553,54,No,22,59.59,New York,NY,iOS,Yes
+US234,36,No,37,59.53,New York,NY,iOS,Yes
+EE255,50,No,22,59.51,Phoenix,AZ,iOS,Yes
+EA856,41,No,5,59.47,Indianapolis,IN,iOS,Yes
+IK190,24,No,37,59.46,San Jose,CA,Windows,No
+BS491,28,Yes,18,59.4,Seattle,WA,Android,Yes
+QX778,29,Yes,33,59.38,Fort Worth,TX,Windows,No
+OV163,41,Yes,35,59.38,Charlotte,NC,iOS,No
+PB235,30,No,29,59.32,Philadelphia,PA,Windows,Yes
+XF354,37,No,4,59.31,San Antonio,TX,Android,No
+JR459,27,Yes,25,59.28,San Francisco,CA,Windows,No
+NR598,51,No,20,59.22,Columbus,OH,Android,No
+YE361,24,No,18,59.11,Washington,DC,Android,Yes
+LF604,39,Yes,4,59.04,Dallas,TX,Windows,Yes
+XR630,28,No,11,58.99,New York,NY,iOS,Yes
+YQ896,47,No,27,58.97,Dallas,TX,Windows,Yes
+YH797,34,Yes,11,58.95,Washington,DC,Windows,No
+HO891,34,No,16,58.86,Seattle,WA,Android,No
+CJ193,39,Yes,38,58.78,Columbus,OH,Android,No
+SF988,36,Yes,32,58.76,Denver,CO,Android,Yes
+PO141,23,No,11,58.72,Houston,TX,iOS,Yes
+AO801,30,Yes,8,58.67,Columbus,OH,iOS,No
+EU928,35,No,19,58.64,Phoenix,AZ,Android,Yes
+QK956,37,No,6,58.63,San Jose,CA,Android,Yes
+SC531,48,No,32,58.62,Houston,TX,Android,No
+WV635,46,Yes,21,58.62,San Antonio,TX,Windows,No
+RR233,26,Yes,10,58.56,Austin,TX,iOS,No
+CA381,38,No,14,58.51,San Jose,CA,iOS,Yes
+JV839,30,No,27,58.43,Phoenix,AZ,Windows,No
+VR505,33,Yes,8,58.42,Washington,DC,Android,No
+IX576,44,Yes,22,58.41,Columbus,OH,Windows,Yes
+QX237,34,No,32,58.35,Houston,TX,Windows,Yes
+BV240,31,No,36,58.34,Austin,TX,Android,Yes
+FB901,38,No,27,58.28,San Jose,CA,Android,Yes
+UK170,47,No,6,58.08,Columbus,OH,Android,Yes
+WF771,42,No,36,58.04,Columbus,OH,Android,Yes
+AD272,47,No,30,58.03,Dallas,TX,Windows,No
+WB126,30,Yes,15,57.98,San Jose,CA,iOS,Yes
+PV865,31,No,6,57.88,San Jose,CA,Windows,Yes
+WW963,23,Yes,8,57.87,Phoenix,AZ,iOS,Yes
+VE687,43,No,40,57.8,Chicago,IL,Android,Yes
+RR828,32,Yes,19,57.78,San Diego,CA,Android,Yes
+PB614,43,No,30,57.68,Seattle,WA,Android,No
+KZ841,27,Yes,6,57.63,Washington,DC,Android,No
+GV379,36,Yes,3,57.62,Fort Worth,TX,Windows,Yes
+AF209,29,No,7,57.56,Denver,CO,Android,Yes
+VT414,26,No,33,57.48,Austin,TX,Windows,Yes
+KV912,23,Yes,3,57.46,Phoenix,AZ,iOS,Yes
+MQ514,27,Yes,26,57.45,Seattle,WA,Windows,Yes
+IY564,37,Yes,27,57.39,New York,NY,Android,Yes
+IV319,35,Yes,5,57.39,Columbus,OH,iOS,Yes
+BE157,45,No,34,57.38,Jacksonville,FL,Windows,Yes
+JH725,36,Yes,6,57.35,Seattle,WA,Windows,Yes
+CA880,41,Yes,17,57.27,Columbus,OH,Android,Yes
+NQ743,41,Yes,6,57.26,Los Angeles,CA,iOS,No
+QC649,26,No,32,57.23,San Jose,CA,Windows,Yes
+ST825,30,No,23,57.21,Denver,CO,iOS,No
+WG309,54,No,38,57.2,Columbus,OH,Android,No
+RK489,40,Yes,11,57.19,Charlotte,NC,iOS,No
+FM282,29,No,7,57.16,San Diego,CA,iOS,Yes
+QT778,42,No,34,57.16,Philadelphia,PA,iOS,Yes
+YN759,41,Yes,13,57.14,Austin,TX,iOS,Yes
+QY710,46,Yes,39,57.14,Denver,CO,iOS,Yes
+EX916,41,No,14,57.13,San Antonio,TX,Android,Yes
+JO313,23,Yes,18,57.07,Dallas,TX,Android,No
+EN747,26,Yes,27,57.04,San Diego,CA,iOS,Yes
+TN315,24,No,36,56.92,Phoenix,AZ,iOS,Yes
+ZE279,26,Yes,27,56.81,Phoenix,AZ,Windows,Yes
+UN160,23,No,30,56.77,Los Angeles,CA,Android,Yes
+IT726,23,No,16,56.77,Jacksonville,FL,iOS,Yes
+CI995,43,No,39,56.73,Indianapolis,IN,iOS,Yes
+GN697,34,Yes,14,56.7,Philadelphia,PA,Android,Yes
+JD914,39,Yes,18,56.69,Chicago,IL,Windows,Yes
+DA589,33,No,33,56.61,Seattle,WA,Android,Yes
+OS788,32,Yes,29,56.52,Los Angeles,CA,Android,Yes
+WP388,42,Yes,12,56.52,Seattle,WA,Android,No
+HQ659,38,Yes,14,56.5,Denver,CO,iOS,No
+CA860,45,No,4,56.47,Houston,TX,Android,Yes
+IN822,37,Yes,17,56.45,Fort Worth,TX,iOS,Yes
+IV723,32,No,31,56.44,Indianapolis,IN,Android,No
+ME376,39,No,10,56.44,New York,NY,Android,No
+FE372,38,Yes,20,56.41,Chicago,IL,iOS,No
+VR913,27,Yes,16,56.41,Houston,TX,Android,Yes
+HS412,23,No,11,56.36,Los Angeles,CA,Android,No
+IJ424,43,No,23,56.27,New York,NY,Android,Yes
+RV874,28,Yes,38,56.23,Houston,TX,Windows,Yes
+OW377,27,No,11,56.18,Fort Worth,TX,iOS,No
+EO660,56,No,32,56.16,San Antonio,TX,Android,Yes
+ZJ681,30,No,24,56.14,Washington,DC,Android,Yes
+DD900,26,No,24,56.09,Austin,TX,iOS,Yes
+AK167,36,No,39,56.03,Denver,CO,Windows,Yes
+OR556,38,Yes,7,56.01,Washington,DC,Windows,Yes
+WB383,42,No,34,56,New York,NY,Android,Yes
+IQ850,25,No,34,55.95,Austin,TX,Android,Yes
+QJ910,53,No,22,55.93,Chicago,IL,Windows,Yes
+CC101,40,No,18,55.84,Phoenix,AZ,Windows,No
+AY957,36,No,11,55.68,Chicago,IL,Windows,No
+DE112,52,No,40,55.63,Philadelphia,PA,iOS,Yes
+ZW454,39,No,8,55.6,Charlotte,NC,Windows,Yes
+JS901,34,Yes,29,55.58,Austin,TX,Windows,No
+GF188,26,Yes,32,55.58,Dallas,TX,Android,Yes
+EX769,35,No,27,55.58,San Antonio,TX,Windows,No
+EE534,28,Yes,31,55.52,Chicago,IL,Windows,No
+AE907,44,Yes,32,55.48,Washington,DC,Windows,Yes
+JW833,45,No,35,55.45,Houston,TX,Android,Yes
+VQ118,27,No,33,55.4,Seattle,WA,iOS,Yes
+DH675,36,No,22,55.35,Houston,TX,Windows,Yes
+KO466,40,No,28,55.35,Indianapolis,IN,Windows,Yes
+WW192,23,Yes,27,55.33,Indianapolis,IN,Android,Yes
+ZZ862,23,Yes,15,55.26,Los Angeles,CA,Windows,Yes
+ZO590,47,Yes,6,55.26,San Diego,CA,iOS,Yes
+YT315,46,No,24,55.25,San Diego,CA,Android,No
+FR132,27,Yes,3,55.25,San Antonio,TX,Android,No
+BL495,34,No,18,55.23,Seattle,WA,iOS,Yes
+ZU311,43,Yes,7,55.17,Philadelphia,PA,iOS,No
+TS571,47,Yes,16,55.13,Indianapolis,IN,Android,No
+HV400,44,No,8,55.07,San Francisco,CA,Windows,No
+YS213,40,Yes,35,55.06,San Jose,CA,iOS,No
+VB468,23,Yes,11,55.02,Houston,TX,Windows,Yes
+SA377,26,No,34,55,San Francisco,CA,Android,No
+CJ406,35,No,3,54.94,Fort Worth,TX,Android,Yes
+CD912,31,Yes,15,54.91,Phoenix,AZ,Android,Yes
+BC508,47,No,8,54.86,Seattle,WA,Android,No
+HL345,39,Yes,17,54.76,San Diego,CA,Android,Yes
+SG594,41,Yes,40,54.69,Indianapolis,IN,Android,Yes
+KV536,51,No,34,54.68,New York,NY,iOS,Yes
+DL264,40,No,7,54.66,Columbus,OH,Windows,Yes
+GL836,23,No,4,54.63,Charlotte,NC,Windows,Yes
+AL794,36,No,36,54.61,Denver,CO,iOS,No
+UU428,43,No,21,54.61,Columbus,OH,Android,No
+PR768,28,Yes,3,54.54,San Jose,CA,Windows,No
+QM982,35,Yes,13,54.54,Washington,DC,Windows,Yes
+VY565,38,No,5,54.51,Philadelphia,PA,Android,No
+XI230,23,Yes,39,54.51,Washington,DC,Windows,Yes
+FP392,39,No,35,54.5,Phoenix,AZ,iOS,No
+IV224,52,No,11,54.41,Austin,TX,Windows,Yes
+ZS160,34,Yes,40,54.39,San Antonio,TX,Android,Yes
+BZ911,43,Yes,4,54.38,Denver,CO,Windows,No
+AF911,23,Yes,32,54.35,Fort Worth,TX,Windows,No
+PJ223,46,Yes,39,54.34,San Jose,CA,Windows,Yes
+NW379,40,No,23,54.33,Chicago,IL,iOS,No
+AP547,23,Yes,27,54.31,San Antonio,TX,iOS,Yes
+XS112,43,No,26,54.31,Houston,TX,Windows,Yes
+EL921,34,No,8,54.22,Philadelphia,PA,Android,Yes
+BL436,28,No,12,54.22,Chicago,IL,Windows,Yes
+VG986,37,No,6,54.2,Austin,TX,iOS,Yes
+ZR120,42,No,13,54.11,Houston,TX,Windows,No
+WH884,33,Yes,36,54.11,San Jose,CA,Windows,Yes
+XT432,34,No,31,54.07,Austin,TX,iOS,Yes
+MZ338,38,No,28,54.07,San Diego,CA,Windows,Yes
+VH629,49,Yes,38,54.06,Columbus,OH,Android,Yes
+QB727,33,No,11,53.99,Indianapolis,IN,Windows,Yes
+DE174,23,No,10,53.94,San Jose,CA,Windows,Yes
+WY943,29,No,28,53.93,Indianapolis,IN,iOS,Yes
+VQ731,39,Yes,34,53.87,Chicago,IL,Windows,Yes
+MR669,34,Yes,27,53.8,Los Angeles,CA,Android,Yes
+VM925,36,Yes,15,53.75,San Diego,CA,Windows,No
+SI800,33,No,37,53.74,Washington,DC,iOS,No
+YJ585,31,No,19,53.67,Houston,TX,iOS,Yes
+BH393,37,No,36,53.66,New York,NY,Android,Yes
+MN512,63,No,29,53.63,Jacksonville,FL,Windows,No
+MW701,40,No,29,53.63,Los Angeles,CA,Android,No
+BG259,26,Yes,30,53.59,Seattle,WA,iOS,Yes
+LJ785,50,No,18,53.57,San Antonio,TX,iOS,Yes
+IQ857,50,No,5,53.46,Austin,TX,Android,Yes
+YV326,45,No,7,53.41,Jacksonville,FL,Windows,No
+TV237,23,No,17,53.34,Seattle,WA,iOS,Yes
+FG666,27,No,25,53.34,Indianapolis,IN,Windows,Yes
+HV377,44,Yes,33,53.33,Dallas,TX,iOS,Yes
+EP339,34,Yes,38,53.17,Dallas,TX,Windows,No
+OP322,31,No,22,53.09,Dallas,TX,iOS,Yes
+IW953,38,No,14,53.06,Houston,TX,Windows,Yes
+LK768,23,Yes,33,53.05,Phoenix,AZ,iOS,Yes
+ON495,38,No,15,53.02,Houston,TX,iOS,Yes
+UT411,23,Yes,29,52.96,Dallas,TX,Android,No
+JK605,33,No,21,52.76,San Jose,CA,Windows,Yes
+XH784,32,Yes,11,52.76,Dallas,TX,iOS,Yes
+GE363,41,Yes,3,52.71,Dallas,TX,Android,Yes
+LB140,35,Yes,28,52.7,Jacksonville,FL,Windows,No
+AL750,31,Yes,3,52.63,San Francisco,CA,iOS,Yes
+KZ564,23,No,26,52.6,Philadelphia,PA,Android,No
+QT869,44,Yes,20,52.52,San Jose,CA,Windows,Yes
+KL647,30,No,30,52.36,Columbus,OH,Android,Yes
+EJ666,29,Yes,12,52.34,San Diego,CA,Android,No
+EV525,34,Yes,21,52.33,Washington,DC,Windows,Yes
+OT822,58,No,34,52.31,Charlotte,NC,Android,Yes
+ER218,36,Yes,38,52.26,Houston,TX,Windows,No
+MR871,23,Yes,38,52.22,San Jose,CA,Android,Yes
+UO981,59,No,12,52.22,San Francisco,CA,Android,No
+GF722,23,No,12,52.18,Phoenix,AZ,Android,Yes
+TW983,39,Yes,23,52.16,Houston,TX,Windows,Yes
+CQ228,26,Yes,40,52.16,New York,NY,Android,Yes
+NO749,23,Yes,18,52.12,San Diego,CA,Windows,No
+ZN175,23,No,40,52.08,New York,NY,Windows,Yes
+ET252,23,Yes,35,51.98,San Antonio,TX,Android,Yes
+UT859,31,Yes,33,51.95,Washington,DC,Android,Yes
+SL553,39,No,5,51.89,San Jose,CA,Android,No
+KV815,29,Yes,19,51.86,Philadelphia,PA,iOS,Yes
+GP953,23,No,20,51.82,San Diego,CA,Android,Yes
+MU990,35,Yes,12,51.8,Seattle,WA,Android,No
+EM109,23,No,31,51.77,New York,NY,iOS,Yes
+FA635,30,No,4,51.72,Houston,TX,Windows,Yes
+CP915,34,No,38,51.67,Phoenix,AZ,Android,Yes
+FE352,49,No,22,51.61,Dallas,TX,iOS,Yes
+OJ720,24,No,31,51.61,Charlotte,NC,iOS,No
+WD546,40,Yes,10,51.58,San Diego,CA,Windows,Yes
+XQ979,34,No,11,51.45,San Francisco,CA,Android,Yes
+WZ783,32,No,16,51.44,Phoenix,AZ,Android,No
+KR872,26,Yes,15,51.39,Houston,TX,iOS,Yes
+AU367,34,No,3,51.34,Phoenix,AZ,Android,No
+IL373,34,Yes,12,51.34,Los Angeles,CA,iOS,Yes
+EG684,44,No,39,51.23,Fort Worth,TX,iOS,Yes
+ZT460,42,No,30,51.2,Chicago,IL,Windows,No
+RW145,26,No,39,51.16,Dallas,TX,Windows,No
+CL561,24,Yes,37,51.15,Indianapolis,IN,Windows,Yes
+RH352,32,Yes,9,51.1,Philadelphia,PA,Android,Yes
+NQ475,23,Yes,4,51.07,Jacksonville,FL,Windows,Yes
+CM248,33,No,35,51.05,Austin,TX,Android,Yes
+RB974,43,Yes,18,51,Los Angeles,CA,Windows,Yes
+QI375,29,Yes,38,50.89,Philadelphia,PA,Windows,Yes
+SK866,45,Yes,14,50.87,Austin,TX,iOS,Yes
+LZ907,39,No,9,50.79,Washington,DC,Android,Yes
+NL190,44,Yes,17,50.75,Chicago,IL,iOS,No
+WA625,40,Yes,37,50.71,Los Angeles,CA,Windows,No
+EP419,26,No,29,50.62,Phoenix,AZ,Android,No
+JH838,33,No,26,50.61,San Antonio,TX,iOS,Yes
+GH258,46,No,8,50.57,Austin,TX,Windows,No
+PG762,37,Yes,17,50.54,Dallas,TX,Windows,No
+HM193,40,Yes,4,50.48,San Antonio,TX,Android,Yes
+JM215,32,Yes,10,50.46,Houston,TX,iOS,Yes
+DF149,23,No,20,50.45,Denver,CO,Windows,Yes
+SB462,23,Yes,28,50.35,Fort Worth,TX,Android,Yes
+FA909,23,Yes,10,50.35,Columbus,OH,Windows,No
+ML843,41,No,20,50.34,San Jose,CA,iOS,Yes
+BM834,56,No,21,50.32,Los Angeles,CA,Windows,Yes
+BN312,31,No,32,50.27,San Diego,CA,iOS,Yes
+YM439,45,No,14,50.25,Chicago,IL,iOS,No
+GY176,31,No,9,50.24,Austin,TX,Android,Yes
+HF589,33,No,27,50.17,Columbus,OH,Android,No
+ZW436,33,No,18,50.17,Austin,TX,Android,No
+DC378,44,No,30,50.15,Denver,CO,Windows,Yes
+UA514,27,Yes,13,50.15,Indianapolis,IN,iOS,Yes
+GL826,31,No,19,50.15,Chicago,IL,iOS,Yes
+CT387,24,No,14,50.04,Charlotte,NC,iOS,No
+ZB602,54,Yes,12,49.98,Chicago,IL,iOS,Yes
+OQ481,42,No,9,49.86,Jacksonville,FL,Windows,Yes
+LT626,26,No,10,49.83,San Francisco,CA,iOS,Yes
+FF540,23,Yes,14,49.79,San Diego,CA,iOS,No
+UV849,23,No,26,49.79,Seattle,WA,iOS,Yes
+UH618,44,No,6,49.79,Fort Worth,TX,iOS,No
+RT391,42,No,39,49.78,Washington,DC,iOS,Yes
+JG379,40,No,13,49.75,Fort Worth,TX,Windows,Yes
+LY545,37,No,15,49.75,Columbus,OH,iOS,Yes
+OL204,37,Yes,16,49.75,Seattle,WA,Windows,No
+DP247,43,No,19,49.75,Fort Worth,TX,iOS,Yes
+HJ876,23,No,21,49.73,Denver,CO,Android,Yes
+FA645,51,Yes,21,49.72,New York,NY,iOS,No
+YO113,24,Yes,17,49.69,Columbus,OH,iOS,No
+TY866,33,Yes,28,49.69,Fort Worth,TX,iOS,No
+VN417,35,No,15,49.66,Philadelphia,PA,iOS,Yes
+AH393,40,Yes,3,49.66,Columbus,OH,iOS,Yes
+OG671,59,No,23,49.63,Dallas,TX,Windows,No
+XB429,26,No,31,49.62,Columbus,OH,Windows,Yes
+KM210,42,Yes,14,49.56,Seattle,WA,Windows,Yes
+CR296,30,No,38,49.5,San Jose,CA,iOS,Yes
+VC512,29,No,6,49.5,Philadelphia,PA,iOS,No
+IC350,23,No,37,49.48,Dallas,TX,Android,No
+EV633,28,No,20,49.47,Los Angeles,CA,iOS,No
+ZI532,45,No,35,49.44,San Francisco,CA,Windows,Yes
+QZ296,37,Yes,20,49.44,Washington,DC,Android,Yes
+QJ398,44,Yes,13,49.44,Phoenix,AZ,Windows,No
+EK700,43,Yes,10,49.43,San Diego,CA,iOS,Yes
+RX372,25,No,7,49.42,Indianapolis,IN,Android,Yes
+CI653,40,Yes,16,49.36,Charlotte,NC,Windows,Yes
+OU522,35,Yes,37,49.35,Chicago,IL,Android,Yes
+WA991,41,No,10,49.33,Phoenix,AZ,Android,No
+CC581,44,No,3,49.29,Washington,DC,Android,Yes
+WN918,53,Yes,25,49.29,San Jose,CA,Windows,No
+PS703,50,No,20,49.29,Columbus,OH,Android,Yes
+CD395,34,Yes,32,49.28,New York,NY,iOS,Yes
+YU214,23,Yes,12,49.26,Seattle,WA,iOS,Yes
+KG640,23,No,25,49.25,Houston,TX,Android,Yes
+AR999,37,Yes,33,49.24,Seattle,WA,Android,Yes
+RC502,28,Yes,6,49.11,Chicago,IL,Android,Yes
+FY476,48,No,15,49.05,Seattle,WA,Windows,Yes
+VB216,34,No,10,49.03,San Jose,CA,Android,No
+IO598,27,Yes,38,49.01,Dallas,TX,Android,Yes
+NP922,34,Yes,36,49,Philadelphia,PA,iOS,Yes
+UN625,35,Yes,29,48.98,Charlotte,NC,Android,Yes
+LS478,28,No,18,48.9,Seattle,WA,Windows,No
+CR931,39,No,18,48.9,San Jose,CA,Windows,Yes
+LE788,43,Yes,28,48.88,Los Angeles,CA,iOS,No
+HQ881,42,Yes,5,48.88,Jacksonville,FL,iOS,No
+LY978,40,No,30,48.88,Houston,TX,Windows,No
+VY151,25,No,4,48.83,Dallas,TX,iOS,Yes
+FE196,39,No,34,48.78,Indianapolis,IN,Windows,No
+XY116,40,No,12,48.77,Phoenix,AZ,iOS,No
+XZ102,29,No,38,48.73,Dallas,TX,Windows,Yes
+DI904,27,No,18,48.63,Seattle,WA,Android,Yes
+BF757,28,No,8,48.59,San Diego,CA,Android,Yes
+QV819,49,No,40,48.57,San Francisco,CA,Windows,No
+TT303,30,No,12,48.57,Austin,TX,iOS,Yes
+OR143,23,No,22,48.53,Indianapolis,IN,Android,Yes
+JV671,38,No,31,48.49,Columbus,OH,iOS,Yes
+HR420,25,Yes,7,48.47,Dallas,TX,Android,Yes
+IQ394,25,No,33,48.46,Phoenix,AZ,Windows,Yes
+OQ386,34,No,10,48.45,Chicago,IL,Windows,No
+TL385,34,Yes,28,48.45,Indianapolis,IN,Windows,Yes
+OH903,27,No,29,48.43,Los Angeles,CA,Android,Yes
+SZ135,33,Yes,17,48.41,Fort Worth,TX,Android,Yes
+AB371,25,No,9,48.4,Houston,TX,iOS,No
+IP123,51,No,36,48.31,Houston,TX,Android,No
+CA804,32,Yes,26,48.3,Philadelphia,PA,iOS,Yes
+YW995,36,Yes,14,48.28,Washington,DC,Android,No
+GR868,31,No,32,48.24,Chicago,IL,Windows,Yes
+WM972,46,Yes,4,48.22,Austin,TX,Android,No
+EG189,28,No,13,48.18,Washington,DC,Windows,No
+SR182,23,No,18,48.17,Washington,DC,Windows,Yes
+UN841,37,No,32,48.14,Dallas,TX,Android,Yes
+WQ252,29,No,4,48.14,Philadelphia,PA,Windows,Yes
+GF519,27,Yes,19,48.01,New York,NY,iOS,Yes
+HG779,29,No,36,48,Los Angeles,CA,iOS,No
+PP579,46,No,31,47.99,Austin,TX,iOS,No
+BJ674,32,No,23,47.97,Dallas,TX,Windows,Yes
+YJ667,31,Yes,26,47.93,Columbus,OH,iOS,No
+RG979,35,Yes,17,47.88,Indianapolis,IN,Windows,No
+ZD895,31,No,3,47.86,Charlotte,NC,Windows,Yes
+HM637,23,No,40,47.81,Charlotte,NC,Windows,No
+OF956,37,No,23,47.74,San Jose,CA,Windows,No
+FW192,32,No,13,47.74,Austin,TX,Android,No
+BG581,27,No,20,47.73,San Antonio,TX,iOS,Yes
+EM213,28,No,5,47.65,Houston,TX,Android,Yes
+BG281,49,Yes,18,47.59,New York,NY,Windows,Yes
+PK638,34,Yes,32,47.54,Denver,CO,Windows,Yes
+ZG313,24,Yes,39,47.49,San Diego,CA,iOS,Yes
+JP474,26,Yes,22,47.41,Chicago,IL,Android,No
+PV947,23,No,17,47.36,Austin,TX,Android,No
+UR240,49,No,4,47.26,Charlotte,NC,iOS,No
+RA587,43,No,25,47.24,Washington,DC,Windows,No
+TE319,25,No,29,47.19,Denver,CO,iOS,No
+ZL391,36,No,9,47.19,Jacksonville,FL,iOS,Yes
+UF955,27,Yes,6,47.19,Columbus,OH,Android,No
+XG944,28,No,29,47.18,New York,NY,iOS,No
+IL751,38,No,28,47.12,Chicago,IL,iOS,Yes
+KN508,46,No,34,47.1,San Diego,CA,Android,No
+EO118,23,No,24,47.09,Indianapolis,IN,Android,Yes
+FA621,40,No,25,47.05,Washington,DC,iOS,Yes
+TH446,31,No,13,47.05,San Diego,CA,Windows,Yes
+RP205,23,No,36,47.04,Dallas,TX,Android,Yes
+KT484,41,No,3,47,San Francisco,CA,iOS,Yes
+RT683,23,No,20,46.89,Phoenix,AZ,Android,Yes
+UT770,23,No,27,46.86,San Jose,CA,iOS,Yes
+PV159,36,No,16,46.81,Houston,TX,Android,Yes
+HM945,39,Yes,40,46.78,Washington,DC,Android,Yes
+SR391,37,No,31,46.71,Seattle,WA,iOS,Yes
+OK826,48,No,39,46.6,Phoenix,AZ,Android,Yes
+EI947,32,Yes,5,46.6,Denver,CO,Windows,No
+AQ696,29,No,34,46.6,Columbus,OH,Windows,Yes
+QE972,29,No,35,46.56,Austin,TX,iOS,Yes
+UK651,35,Yes,33,46.47,Fort Worth,TX,Windows,Yes
+ZA869,23,No,40,46.43,Fort Worth,TX,Windows,Yes
+ZT396,33,No,5,46.36,Jacksonville,FL,iOS,No
+DR333,24,No,6,46.34,Austin,TX,iOS,Yes
+DZ135,23,No,38,46.33,Dallas,TX,iOS,No
+JU854,35,No,22,46.29,Phoenix,AZ,Windows,Yes
+CN687,30,No,4,46.29,Seattle,WA,iOS,No
+CE980,31,No,27,46.22,San Diego,CA,Windows,No
+HV813,41,Yes,29,46.19,Chicago,IL,iOS,Yes
+TQ269,25,No,32,46.19,Columbus,OH,iOS,Yes
+FC173,41,No,22,46.17,Jacksonville,FL,Windows,Yes
+DW467,42,No,39,46.12,Washington,DC,Windows,No
+ER882,25,Yes,22,46.12,Fort Worth,TX,Android,No
+HP310,38,No,15,46.05,Indianapolis,IN,iOS,Yes
+BM431,23,Yes,18,46.03,San Diego,CA,Android,No
+DS975,27,No,6,45.92,Philadelphia,PA,iOS,Yes
+MQ263,23,No,39,45.92,Phoenix,AZ,Windows,Yes
+CF298,41,No,28,45.86,San Jose,CA,iOS,Yes
+WD414,31,No,40,45.84,Indianapolis,IN,iOS,Yes
+YV131,36,Yes,10,45.69,Philadelphia,PA,iOS,No
+WT493,25,Yes,9,45.65,Houston,TX,iOS,Yes
+MR245,46,No,10,45.56,Columbus,OH,Windows,Yes
+XL856,23,No,28,45.48,Chicago,IL,iOS,Yes
+GJ241,23,Yes,23,45.38,San Francisco,CA,Android,No
+OE577,26,No,27,45.36,Columbus,OH,Windows,Yes
+OM579,29,Yes,5,45.35,San Diego,CA,Android,No
+RH426,43,Yes,7,45.34,Denver,CO,iOS,Yes
+PO304,41,No,36,45.33,Fort Worth,TX,Android,Yes
+SI933,23,No,23,45.3,Jacksonville,FL,Windows,No
+UR461,31,Yes,38,45.25,San Jose,CA,Android,Yes
+SS749,25,No,31,45.21,Columbus,OH,Android,No
+AD264,47,No,37,45.17,Jacksonville,FL,Windows,No
+PV347,35,No,27,45.17,Phoenix,AZ,iOS,Yes
+JL628,55,Yes,28,45.16,Jacksonville,FL,Android,Yes
+GB428,25,Yes,35,45.14,San Francisco,CA,Windows,Yes
+YT586,41,Yes,3,45.03,Indianapolis,IN,Windows,No
+AD363,34,No,5,45.03,Denver,CO,iOS,Yes
+BQ483,28,Yes,39,45.02,San Jose,CA,iOS,Yes
+JK349,44,No,31,45.01,Indianapolis,IN,iOS,Yes
+DR771,23,No,4,44.97,Austin,TX,Windows,Yes
+AO814,35,Yes,20,44.96,San Diego,CA,Windows,Yes
+EN302,42,No,28,44.95,Columbus,OH,Windows,Yes
+BB487,36,No,15,44.9,Philadelphia,PA,Windows,Yes
+JE490,50,No,27,44.9,San Jose,CA,Android,Yes
+LR584,35,No,34,44.88,San Jose,CA,Windows,No
+SR169,43,No,9,44.87,Los Angeles,CA,Windows,Yes
+EC457,25,Yes,7,44.86,Fort Worth,TX,Windows,Yes
+PR468,50,No,25,44.85,San Diego,CA,Android,Yes
+LV238,35,No,15,44.8,San Diego,CA,Android,Yes
+QX658,32,Yes,26,44.8,San Antonio,TX,Windows,No
+EK111,23,No,19,44.79,Philadelphia,PA,Android,Yes
+BZ310,40,Yes,22,44.78,Seattle,WA,Android,No
+PY413,53,No,31,44.73,Denver,CO,Windows,Yes
+CO523,31,No,3,44.71,San Francisco,CA,Android,Yes
+ER361,41,Yes,16,44.67,Dallas,TX,Windows,No
+WS741,33,No,8,44.64,Philadelphia,PA,Windows,Yes
+MB943,23,No,16,44.64,Dallas,TX,iOS,Yes
+OF309,48,No,16,44.59,Indianapolis,IN,Android,No
+HO315,34,Yes,8,44.51,Chicago,IL,Windows,Yes
+LE612,37,No,15,44.39,Chicago,IL,iOS,No
+PT362,33,Yes,7,44.36,Phoenix,AZ,Android,Yes
+EQ178,45,Yes,30,44.33,Columbus,OH,iOS,Yes
+GF574,29,No,10,44.24,San Diego,CA,Windows,Yes
+LI219,23,Yes,7,44.21,Chicago,IL,Android,No
+TW136,54,No,8,44.15,Indianapolis,IN,Windows,No
+ZY136,23,No,16,44.14,San Antonio,TX,Android,Yes
+FT380,48,No,38,44.14,Washington,DC,iOS,Yes
+ZL355,41,No,16,44.09,Indianapolis,IN,Android,Yes
+GT251,38,No,3,44.09,Houston,TX,Windows,No
+KN918,23,Yes,24,44.08,Seattle,WA,Windows,Yes
+BF186,34,Yes,6,44.05,Houston,TX,Windows,Yes
+HH215,53,Yes,15,44.03,Philadelphia,PA,Windows,Yes
+ZQ466,45,Yes,20,43.97,Austin,TX,Android,Yes
+QM907,36,No,23,43.95,San Francisco,CA,Windows,Yes
+UE944,38,Yes,12,43.93,New York,NY,Windows,No
+EP244,59,No,27,43.84,Los Angeles,CA,Windows,Yes
+CI907,25,No,32,43.77,Los Angeles,CA,Android,Yes
+YU753,23,Yes,17,43.77,Indianapolis,IN,iOS,Yes
+HF436,26,No,33,43.74,San Francisco,CA,Android,No
+AA377,40,No,39,43.67,San Francisco,CA,iOS,No
+FJ935,23,Yes,16,43.63,Charlotte,NC,Windows,Yes
+KA184,23,No,27,43.61,Austin,TX,iOS,Yes
+OJ678,48,Yes,36,43.61,Jacksonville,FL,Android,Yes
+OP866,27,No,708,43.58,San Antonio,TX,iOS,Yes
+ON239,34,Yes,13,43.58,Dallas,TX,Windows,Yes
+ID349,24,No,8,43.46,Dallas,TX,iOS,No
+XC179,23,Yes,35,43.45,Columbus,OH,Android,Yes
+CI638,35,No,29,43.36,Jacksonville,FL,Android,Yes
+RJ656,47,No,36,43.35,Seattle,WA,Android,No
+SB341,39,Yes,27,43.34,Seattle,WA,Android,Yes
+TY683,36,No,31,43.27,Indianapolis,IN,iOS,Yes
+TL922,23,No,17,43.24,Phoenix,AZ,Windows,No
+AR237,38,Yes,13,43.16,Columbus,OH,Windows,No
+MH250,33,No,11,43.13,Denver,CO,Android,No
+TI144,31,No,12,43.06,Austin,TX,Windows,Yes
+ZN222,28,No,6,43.05,Seattle,WA,iOS,No
+ZU108,40,No,6,43.03,San Antonio,TX,Android,Yes
+HQ196,32,No,24,43.01,Charlotte,NC,Windows,Yes
+RG908,40,No,40,43,Washington,DC,iOS,No
+NY939,23,No,7,42.96,Columbus,OH,Windows,Yes
+BA553,43,Yes,23,42.93,New York,NY,Android,Yes
+IL862,36,No,25,42.85,Houston,TX,Windows,No
+BZ517,56,No,27,42.8,Columbus,OH,Android,No
+WV397,40,No,16,42.79,San Diego,CA,Android,Yes
+AS295,25,No,11,42.73,Austin,TX,Windows,No
+AI179,23,Yes,3,42.68,Washington,DC,Windows,No
+VB890,49,No,19,42.65,Jacksonville,FL,iOS,Yes
+HG538,40,Yes,36,42.55,Dallas,TX,Android,Yes
+BA462,44,Yes,12,42.53,Charlotte,NC,iOS,Yes
+QZ516,37,No,29,42.52,San Jose,CA,Windows,No
+MB907,52,Yes,33,42.48,Chicago,IL,iOS,Yes
+TN520,43,Yes,31,42.47,Charlotte,NC,Windows,Yes
+TN376,49,Yes,14,42.43,Chicago,IL,Android,Yes
+LV150,43,No,37,42.41,Chicago,IL,Windows,Yes
+WA233,23,No,26,42.4,Dallas,TX,Windows,Yes
+XX710,23,No,12,42.37,Seattle,WA,Android,Yes
+SI769,46,No,40,42.32,Phoenix,AZ,iOS,Yes
+ZZ813,38,Yes,9,42.31,Jacksonville,FL,iOS,Yes
+HM112,29,Yes,17,42.11,Los Angeles,CA,iOS,No
+LP478,33,Yes,546,41.96,Seattle,WA,iOS,Yes
+FX388,29,No,5,41.76,San Francisco,CA,iOS,No
+JV681,23,Yes,30,41.65,Chicago,IL,iOS,Yes
+GP438,39,No,12,41.55,Washington,DC,iOS,Yes
+GB533,23,No,27,41.54,Indianapolis,IN,Android,No
+RZ153,37,No,16,41.43,Washington,DC,iOS,Yes
+ED591,37,No,8,41.42,Seattle,WA,Windows,No
+GS260,42,No,6,41.36,Indianapolis,IN,Android,Yes
+VU889,30,No,7,41.31,Indianapolis,IN,Windows,No
+EX580,29,Yes,26,41.21,Jacksonville,FL,Windows,Yes
+JN686,26,Yes,35,41.2,Washington,DC,iOS,Yes
+ZN860,26,No,40,41.18,Dallas,TX,Android,Yes
+JZ885,35,Yes,39,41.17,Los Angeles,CA,Windows,Yes
+QO406,50,No,12,41.13,Jacksonville,FL,Windows,Yes
+FQ262,23,Yes,26,41.09,Phoenix,AZ,iOS,Yes
+BV302,35,No,37,41.01,Charlotte,NC,iOS,No
+TN415,36,No,36,40.98,Dallas,TX,Windows,No
+BV502,33,No,5,40.96,Fort Worth,TX,Windows,Yes
+IN506,30,Yes,12,40.92,Indianapolis,IN,iOS,Yes
+ZB929,38,No,20,40.85,Indianapolis,IN,Windows,Yes
+CN954,34,No,14,40.77,Dallas,TX,iOS,No
+AW455,42,No,372,40.74,San Antonio,TX,Android,No
+SP495,23,Yes,17,40.66,Jacksonville,FL,Windows,Yes
+RD224,23,Yes,15,40.59,Houston,TX,iOS,No
+VX975,52,No,6,40.54,Fort Worth,TX,Android,No
+ZI297,33,No,22,40.52,Phoenix,AZ,Windows,Yes
+MI894,27,No,7,40.49,Fort Worth,TX,iOS,Yes
+MJ881,44,No,8,40.49,San Diego,CA,Windows,Yes
+QD217,36,No,20,40.46,New York,NY,iOS,No
+CL871,38,No,13,40.44,San Jose,CA,Android,Yes
+SS275,33,No,14,40.42,New York,NY,Windows,Yes
+JK989,46,No,22,40.41,Seattle,WA,Windows,Yes
+FI782,39,Yes,36,40.29,Charlotte,NC,Android,Yes
+AA840,63,No,18,40.27,Fort Worth,TX,iOS,Yes
+AP437,47,No,21,40.21,Indianapolis,IN,iOS,Yes
+PJ432,52,No,32,40.16,Phoenix,AZ,Android,Yes
+OX786,41,No,20,40.11,New York,NY,Android,Yes
+JR963,26,No,35,40.07,San Diego,CA,Windows,No
+PJ533,35,No,15,40.06,Dallas,TX,Windows,Yes
+PI619,31,No,20,40,Chicago,IL,Windows,Yes
+RV312,33,No,31,39.86,San Antonio,TX,Windows,No
+IR737,46,No,28,39.83,Denver,CO,iOS,Yes
+XR697,45,Yes,31,39.78,Chicago,IL,Windows,Yes
+KO809,46,No,29,39.77,Jacksonville,FL,Android,No
+KW388,42,No,18,39.75,Dallas,TX,Android,Yes
+LL375,48,Yes,40,39.74,New York,NY,Windows,No
+SR351,23,No,36,39.73,Austin,TX,Windows,Yes
+WR441,45,Yes,35,39.71,Philadelphia,PA,iOS,No
+KX285,33,Yes,36,39.68,Philadelphia,PA,Android,No
+EF902,36,Yes,14,39.65,Philadelphia,PA,iOS,Yes
+ND685,31,No,34,39.63,Jacksonville,FL,Android,Yes
+JI616,25,No,34,39.59,Denver,CO,iOS,Yes
+LO637,41,Yes,33,39.51,New York,NY,Windows,No
+EP704,42,Yes,28,39.49,Indianapolis,IN,Android,No
+TE553,27,Yes,29,39.41,Fort Worth,TX,Android,Yes
+KS833,30,Yes,15,39.35,San Francisco,CA,Windows,Yes
+OP804,28,Yes,16,39.34,San Jose,CA,Windows,No
+WV571,31,Yes,23,39.32,Jacksonville,FL,Windows,Yes
+XI811,30,No,18,39.2,Dallas,TX,iOS,Yes
+WG209,56,No,11,39.18,Houston,TX,Windows,No
+RX112,34,No,9,39.14,San Jose,CA,Android,No
+IC526,30,Yes,40,39.1,Houston,TX,iOS,Yes
+LN183,34,No,29,38.99,Los Angeles,CA,iOS,Yes
+IV667,23,No,35,38.97,Seattle,WA,Android,Yes
+EY673,50,No,8,38.95,New York,NY,Android,Yes
+CJ946,23,No,30,38.94,Columbus,OH,Android,Yes
+ZP107,47,Yes,4,38.94,Indianapolis,IN,Android,No
+WT974,34,Yes,21,38.91,New York,NY,Windows,Yes
+JI640,23,Yes,8,38.89,Philadelphia,PA,Windows,No
+LN838,36,Yes,7,38.88,Philadelphia,PA,Android,No
+IK343,47,Yes,39,38.88,Fort Worth,TX,iOS,No
+MS132,34,No,27,38.8,Denver,CO,Windows,Yes
+OX983,53,Yes,37,38.76,New York,NY,Android,No
+PR693,44,Yes,34,38.73,Houston,TX,Android,Yes
+KZ585,37,Yes,29,38.62,Fort Worth,TX,Android,Yes
+UE508,23,Yes,32,38.59,Austin,TX,Windows,Yes
+FP603,34,No,8,38.52,Phoenix,AZ,Windows,Yes
+LD785,40,No,24,38.5,Seattle,WA,Windows,Yes
+OT851,44,No,21,38.5,Fort Worth,TX,Windows,No
+SE662,37,Yes,15,38.34,Los Angeles,CA,Android,Yes
+NO143,44,Yes,18,38.32,Los Angeles,CA,Windows,No
+YJ226,49,No,36,38.3,San Francisco,CA,Windows,Yes
+WV597,23,No,34,38.27,Charlotte,NC,Windows,Yes
+PG174,52,Yes,3,38.13,San Diego,CA,Windows,No
+KR253,32,Yes,34,38.11,Los Angeles,CA,Android,Yes
+SI469,32,Yes,9,37.95,San Francisco,CA,Android,Yes
+VD234,32,No,24,37.94,Austin,TX,iOS,Yes
+UW348,33,No,35,37.94,Indianapolis,IN,Android,No
+GQ244,28,No,15,37.77,Houston,TX,iOS,No
+SG629,23,No,19,37.76,San Francisco,CA,Windows,No
+PA810,23,Yes,19,37.76,Seattle,WA,Android,Yes
+JN732,44,No,35,37.55,Fort Worth,TX,Windows,Yes
+NF916,37,No,8,37.5,Indianapolis,IN,iOS,No
+KR983,46,No,36,37.48,San Francisco,CA,iOS,No
+FS370,29,No,17,37.43,Phoenix,AZ,Android,No
+TZ947,42,No,5,37.37,Chicago,IL,Android,No
+WZ994,25,No,25,37.3,Seattle,WA,Windows,No
+OK908,48,Yes,35,37.29,Seattle,WA,Windows,No
+ET205,30,No,22,37.25,Washington,DC,Windows,Yes
+KD326,51,No,16,37.16,Chicago,IL,iOS,No
+NO103,23,No,34,37.15,Fort Worth,TX,Windows,No
+KC157,43,Yes,27,37.14,Philadelphia,PA,Android,Yes
+YY325,23,Yes,17,37.12,Chicago,IL,Android,No
+OC440,57,Yes,23,37,Philadelphia,PA,Android,Yes
+IT443,23,Yes,10,36.94,San Jose,CA,iOS,Yes
+LB325,24,No,31,36.85,San Antonio,TX,Windows,No
+QV483,35,No,34,36.85,San Antonio,TX,Android,Yes
+SQ156,38,No,12,36.85,Austin,TX,iOS,Yes
+NE854,34,No,9,36.83,Philadelphia,PA,Android,No
+TE405,44,No,20,36.81,Indianapolis,IN,Windows,Yes
+FS720,23,No,4,36.79,Austin,TX,Windows,Yes
+ON565,27,Yes,3,36.79,Fort Worth,TX,Windows,Yes
+WN493,34,No,31,36.77,Dallas,TX,Android,Yes
+YE252,34,Yes,21,36.77,Seattle,WA,iOS,Yes
+RV601,33,No,12,36.71,Philadelphia,PA,Windows,Yes
+KH917,23,Yes,16,36.63,Los Angeles,CA,Windows,Yes
+MA817,23,No,17,36.61,Chicago,IL,Android,Yes
+GL584,48,No,4,36.57,Jacksonville,FL,iOS,Yes
+ET999,23,No,3,36.48,San Francisco,CA,Windows,Yes
+OL205,23,Yes,37,36.37,Jacksonville,FL,Windows,Yes
+XT655,23,Yes,24,36.27,Los Angeles,CA,Windows,No
+NI147,33,Yes,32,36.23,Austin,TX,Android,No
+SF737,23,No,34,36.21,New York,NY,iOS,No
+XC684,23,No,33,36.13,San Jose,CA,iOS,No
+WO815,34,No,15,36.12,San Antonio,TX,Android,No
+GN384,29,No,24,36.12,Philadelphia,PA,Windows,No
+FH439,24,No,12,36.08,Houston,TX,Windows,No
+FE629,49,No,26,36.05,Denver,CO,Android,Yes
+DN755,44,No,26,35.98,Indianapolis,IN,Android,Yes
+TH146,36,Yes,5,35.91,Columbus,OH,iOS,Yes
+ED484,26,Yes,4,35.9,Houston,TX,Android,Yes
+TZ796,57,No,14,35.88,Houston,TX,iOS,No
+ZC387,42,No,24,35.86,San Diego,CA,Android,No
+CG866,44,No,3,35.83,Philadelphia,PA,Windows,Yes
+KD620,23,Yes,22,35.81,Dallas,TX,iOS,No
+WG628,27,Yes,6,35.8,Chicago,IL,iOS,Yes
+AN868,40,No,40,35.73,Dallas,TX,Android,Yes
+TB561,43,No,4,35.73,San Antonio,TX,Android,Yes
+LS881,23,No,23,35.69,Charlotte,NC,Windows,No
+SJ522,34,No,10,35.67,San Francisco,CA,iOS,Yes
+YT774,50,No,14,35.64,Phoenix,AZ,Windows,No
+HX125,40,No,4,35.64,San Antonio,TX,Windows,Yes
+KO991,37,Yes,14,35.59,San Antonio,TX,iOS,Yes
+HQ703,23,Yes,12,35.53,Fort Worth,TX,iOS,Yes
+CE422,23,No,32,35.49,Houston,TX,iOS,Yes
+UN216,24,No,27,35.48,Chicago,IL,Windows,Yes
+NW452,38,No,32,35.43,Fort Worth,TX,Android,Yes
+WK659,28,No,13,35.37,Denver,CO,Android,No
+ZJ565,38,Yes,6,35.28,Houston,TX,iOS,No
+MW576,37,No,8,35.24,Austin,TX,Windows,Yes
+JV591,42,Yes,28,35.19,Phoenix,AZ,iOS,Yes
+EN748,50,Yes,22,35.15,Austin,TX,iOS,Yes
+KW501,43,Yes,16,35.15,Denver,CO,Windows,No
+IR231,51,No,17,35.14,Jacksonville,FL,Android,Yes
+KN537,37,No,21,35.14,Houston,TX,iOS,Yes
+LL869,51,No,35,35.13,Fort Worth,TX,Windows,Yes
+OD153,23,Yes,37,35.1,New York,NY,Android,No
+YX458,28,No,27,35.04,Phoenix,AZ,Windows,Yes
+SI132,43,No,37,34.95,Columbus,OH,iOS,Yes
+LG137,26,Yes,39,34.95,Houston,TX,iOS,Yes
+IK560,49,No,6,34.93,Seattle,WA,Windows,Yes
+ZR342,45,No,22,34.91,Dallas,TX,iOS,No
+PY778,29,No,9,34.82,New York,NY,Windows,No
+SD625,44,Yes,24,34.8,Los Angeles,CA,Windows,Yes
+LK962,50,No,29,34.78,New York,NY,iOS,Yes
+HA788,38,No,9,34.74,Washington,DC,Windows,Yes
+YI604,45,No,37,34.68,San Diego,CA,iOS,No
+KR613,25,Yes,29,34.67,Columbus,OH,Android,Yes
+TQ600,34,Yes,26,34.67,Los Angeles,CA,Android,No
+PH604,43,Yes,30,34.63,Houston,TX,Windows,Yes
+YV340,26,Yes,26,34.61,Denver,CO,Android,Yes
+CX748,26,Yes,25,34.61,Phoenix,AZ,Windows,No
+RR123,30,Yes,29,34.55,Philadelphia,PA,Android,No
+SQ870,33,Yes,26,34.52,San Antonio,TX,iOS,Yes
+PL728,23,Yes,27,34.52,Denver,CO,Windows,Yes
+XR174,28,No,17,34.5,Denver,CO,Windows,Yes
+NI614,29,No,24,34.46,Phoenix,AZ,Windows,Yes
+HH909,32,No,6,34.4,Seattle,WA,iOS,No
+DY591,39,Yes,20,34.32,San Jose,CA,Android,No
+YT481,43,No,11,34.31,Charlotte,NC,Windows,Yes
+KH207,32,Yes,33,34.29,Houston,TX,iOS,Yes
+ZW175,47,Yes,27,34.29,Chicago,IL,Windows,Yes
+AG504,23,No,8,34.28,Washington,DC,iOS,No
+DO212,37,No,8,34.22,Jacksonville,FL,Windows,No
+KP206,30,No,9,34.19,Philadelphia,PA,Android,Yes
+CN363,49,Yes,27,34.16,Denver,CO,iOS,Yes
+BY383,26,No,27,34.15,Dallas,TX,iOS,Yes
+UG641,23,Yes,16,34.12,Denver,CO,Android,No
+JC832,30,Yes,35,34.04,Washington,DC,Android,Yes
+DS636,26,Yes,33,34.03,Philadelphia,PA,iOS,Yes
+OC530,32,Yes,22,34.02,Seattle,WA,iOS,Yes
+IV461,32,Yes,40,33.98,Chicago,IL,Android,No
+FQ892,25,Yes,5,33.96,Phoenix,AZ,iOS,Yes
+YI181,55,No,11,33.96,Jacksonville,FL,iOS,No
+XA762,39,Yes,35,33.87,San Diego,CA,Android,No
+DI864,40,Yes,28,33.79,Columbus,OH,Android,No
+EH355,40,No,14,33.79,New York,NY,Windows,Yes
+UP717,23,No,11,33.69,Dallas,TX,Windows,Yes
+ZO643,41,No,27,33.69,San Francisco,CA,iOS,Yes
+FI243,38,No,32,33.68,Philadelphia,PA,Android,Yes
+RZ545,23,No,24,33.42,New York,NY,iOS,No
+AQ428,23,No,35,33.4,Jacksonville,FL,Android,No
+EO847,46,No,32,33.38,Philadelphia,PA,iOS,Yes
+AQ686,32,No,14,33.37,Houston,TX,iOS,Yes
+TY302,42,No,34,33.36,Denver,CO,Android,Yes
+RJ294,34,No,31,33.33,Washington,DC,Android,No
+MQ108,23,No,9,33.32,Seattle,WA,Android,No
+SI474,34,No,32,33.32,San Jose,CA,Windows,No
+TZ328,28,Yes,30,33.24,Seattle,WA,Android,No
+NR571,24,No,37,33.2,Los Angeles,CA,Windows,Yes
+AB295,33,No,7,33.19,Dallas,TX,Android,No
+WP771,28,No,9,33.15,San Francisco,CA,Android,Yes
+EW161,45,No,27,33.12,Chicago,IL,Windows,Yes
+RV117,46,No,36,33.11,Indianapolis,IN,Android,Yes
+LC348,42,Yes,6,32.89,Philadelphia,PA,Android,Yes
+AA585,27,No,34,32.82,Philadelphia,PA,Android,Yes
+VV458,42,No,27,32.81,Dallas,TX,Windows,Yes
+HA386,35,Yes,25,32.78,New York,NY,iOS,Yes
+KM352,23,No,27,32.78,Indianapolis,IN,Android,No
+YM516,23,No,7,32.75,Phoenix,AZ,iOS,Yes
+IV788,40,No,32,32.7,Chicago,IL,Android,Yes
+QT249,46,No,38,32.69,Seattle,WA,iOS,Yes
+RH416,25,Yes,28,32.68,San Jose,CA,Android,Yes
+KC333,41,No,15,32.68,Chicago,IL,iOS,Yes
+PT778,40,Yes,9,32.63,Charlotte,NC,Windows,Yes
+HN316,26,Yes,38,32.62,San Antonio,TX,Android,Yes
+RX569,34,No,19,32.57,New York,NY,Windows,Yes
+FH997,25,No,37,32.51,San Jose,CA,Windows,Yes
+XM590,56,No,6,32.47,San Francisco,CA,Android,No
+MH718,48,No,8,32.46,Austin,TX,iOS,Yes
+FU243,37,Yes,22,32.4,New York,NY,Android,Yes
+IU169,39,Yes,10,32.29,Seattle,WA,iOS,No
+KN417,28,Yes,14,32.26,Columbus,OH,Windows,Yes
+YF847,40,Yes,40,32.26,Houston,TX,iOS,Yes
+IA912,23,Yes,20,32.24,Columbus,OH,Windows,No
+FH563,28,No,13,32.23,Denver,CO,iOS,No
+DF622,25,Yes,21,32.23,Washington,DC,Android,Yes
+TC465,25,No,21,32.22,Dallas,TX,Android,No
+BS455,49,Yes,12,32.22,Chicago,IL,iOS,Yes
+ZF730,33,Yes,12,32.19,Houston,TX,Android,Yes
+MR424,23,Yes,6,32.19,San Jose,CA,Windows,Yes
+JQ404,42,No,11,32.16,San Francisco,CA,Windows,Yes
+ES780,38,No,36,32.08,Washington,DC,Android,Yes
+DR744,50,No,36,32.05,Charlotte,NC,iOS,Yes
+VX387,25,No,7,31.95,Chicago,IL,Android,Yes
+BW459,31,No,37,31.94,Phoenix,AZ,iOS,Yes
+RQ369,32,Yes,15,31.86,Chicago,IL,Android,Yes
+BK386,32,No,26,31.81,Houston,TX,Android,Yes
+TN333,32,No,25,31.81,New York,NY,Android,No
+HX620,44,No,23,31.74,Dallas,TX,Windows,Yes
+GO127,23,Yes,5,31.67,Houston,TX,Windows,No
+DS740,38,Yes,3,31.67,Austin,TX,Windows,Yes
+CD467,34,No,30,31.64,San Francisco,CA,Windows,Yes
+DU566,56,No,27,31.6,San Jose,CA,iOS,No
+US828,23,No,24,31.59,Jacksonville,FL,Windows,Yes
+EY449,35,No,33,31.57,Dallas,TX,iOS,Yes
+EH312,30,No,5,31.54,Columbus,OH,Android,Yes
+EK505,23,No,37,31.53,Charlotte,NC,Android,Yes
+BU721,45,No,12,31.51,Seattle,WA,Android,No
+OC481,23,No,20,31.49,Columbus,OH,iOS,Yes
+UB460,33,Yes,36,31.4,Seattle,WA,Android,No
+EU923,33,Yes,16,31.34,Dallas,TX,Windows,Yes
+BK762,25,No,36,31.33,Washington,DC,Android,Yes
+QM783,38,No,30,31.28,Seattle,WA,Android,Yes
+EE286,30,No,35,31.28,Chicago,IL,Windows,Yes
+SJ389,24,Yes,26,31.27,Phoenix,AZ,iOS,No
+PS905,55,Yes,19,31.23,Houston,TX,Android,No
+RQ791,23,No,24,31.21,Los Angeles,CA,Windows,No
+QN175,38,No,18,31.2,Indianapolis,IN,iOS,Yes
+MC479,40,No,34,31.19,Philadelphia,PA,Android,Yes
+SW750,30,No,33,31.12,San Antonio,TX,iOS,Yes
+PI199,55,No,36,31.04,San Antonio,TX,Android,No
+DM560,24,No,27,31.03,Austin,TX,Windows,Yes
+RU802,35,Yes,6,31.01,Austin,TX,Windows,Yes
+AR435,33,No,31,30.91,Fort Worth,TX,Android,No
+ZQ667,45,No,31,30.87,Austin,TX,Android,No
+HB606,23,Yes,37,30.85,New York,NY,Windows,No
+SH325,37,No,8,30.83,New York,NY,Windows,Yes
+RD972,35,No,40,30.78,San Francisco,CA,Android,Yes
+DO196,36,No,3,30.75,Phoenix,AZ,Android,Yes
+OC464,39,No,17,30.75,Charlotte,NC,Android,No
+EZ767,47,No,22,30.7,Austin,TX,iOS,Yes
+PR479,39,Yes,11,30.69,Austin,TX,Android,Yes
+RO664,43,No,36,30.64,Austin,TX,Windows,No
+QZ427,44,No,12,30.54,Seattle,WA,iOS,Yes
+JU543,30,No,18,30.54,Columbus,OH,Windows,No
+SE314,29,No,38,30.5,San Francisco,CA,iOS,No
+ZV267,40,No,13,30.46,Los Angeles,CA,Windows,No
+MR918,32,Yes,10,30.43,Austin,TX,Android,No
+SE136,33,Yes,4,30.41,New York,NY,Android,Yes
+UK616,35,Yes,12,30.38,San Jose,CA,iOS,Yes
+MJ863,34,No,24,30.38,New York,NY,Android,No
+GW228,23,No,18,30.17,Dallas,TX,iOS,Yes
+ZY681,37,No,34,30.16,Houston,TX,Android,Yes
+HY972,33,Yes,6,30.03,Chicago,IL,Windows,Yes
+GD193,40,No,12,29.95,Seattle,WA,iOS,Yes
+KG933,30,Yes,6,29.88,Seattle,WA,Windows,Yes
+FT108,23,Yes,21,29.88,Phoenix,AZ,Android,No
+PA106,49,Yes,38,29.84,Dallas,TX,iOS,Yes
+LG421,24,Yes,15,29.76,Charlotte,NC,iOS,Yes
+PM235,43,Yes,21,29.72,Chicago,IL,iOS,Yes
+RH583,35,No,6,29.7,Seattle,WA,Windows,No
+FQ248,40,No,28,29.68,San Antonio,TX,Windows,Yes
+HL298,33,Yes,5,29.63,Charlotte,NC,Windows,No
+GT742,43,Yes,39,29.52,Austin,TX,iOS,Yes
+VI585,23,No,17,29.48,New York,NY,Windows,No
+UB641,59,No,11,29.48,Dallas,TX,iOS,Yes
+LP940,46,No,10,29.45,Indianapolis,IN,Windows,Yes
+QA542,23,Yes,35,29.35,Seattle,WA,iOS,Yes
+NQ986,35,No,7,29.29,Houston,TX,Windows,Yes
+FF441,39,No,10,29.27,Fort Worth,TX,Windows,No
+SV416,31,Yes,38,29.24,Chicago,IL,Android,No
+SE708,29,Yes,9,29.23,Phoenix,AZ,Windows,Yes
+ND402,40,No,7,29.23,Indianapolis,IN,Android,No
+RP397,32,Yes,30,29.19,Austin,TX,iOS,Yes
+TA801,43,Yes,26,29.18,Columbus,OH,iOS,Yes
+AJ749,26,No,32,29.18,Denver,CO,iOS,Yes
+MC559,35,No,7,29.14,Jacksonville,FL,Android,No
+YU696,38,No,7,29.14,Charlotte,NC,iOS,Yes
+TB539,23,No,5,29.12,Phoenix,AZ,iOS,Yes
+BG678,48,No,14,29.1,San Jose,CA,iOS,Yes
+SU290,44,No,35,29.08,Dallas,TX,Android,Yes
+YC572,38,No,6,29.06,Columbus,OH,iOS,Yes
+VR133,32,Yes,14,28.94,Columbus,OH,Android,Yes
+FA411,36,Yes,20,28.92,San Diego,CA,Windows,Yes
+GY423,43,Yes,6,28.92,Charlotte,NC,Android,Yes
+TX361,34,No,12,28.9,Washington,DC,Android,Yes
+YC846,33,Yes,4,28.88,Houston,TX,iOS,Yes
+BR880,25,No,31,28.85,Fort Worth,TX,Android,Yes
+DZ564,23,No,37,28.81,Houston,TX,Windows,Yes
+JR699,25,Yes,23,28.64,San Jose,CA,iOS,Yes
+FK343,23,No,34,28.58,Austin,TX,Windows,Yes
+BP703,47,Yes,20,28.51,Fort Worth,TX,iOS,Yes
+PD603,23,No,7,28.39,San Antonio,TX,Android,Yes
+JK716,33,No,13,28.35,Denver,CO,Windows,Yes
+FG461,27,No,19,28.35,Denver,CO,iOS,Yes
+FW202,23,Yes,17,28.31,Jacksonville,FL,iOS,Yes
+BS153,48,No,19,28.3,Indianapolis,IN,iOS,Yes
+QO671,49,Yes,25,28.3,Columbus,OH,Windows,Yes
+KA410,37,No,24,28.29,Washington,DC,iOS,Yes
+TC392,48,No,19,28.27,Columbus,OH,Windows,Yes
+KM143,23,Yes,13,28.26,Columbus,OH,iOS,Yes
+LQ177,32,No,40,28.24,Phoenix,AZ,Windows,No
+AT620,51,No,36,28.12,Washington,DC,Android,Yes
+GW756,53,No,37,28.11,Denver,CO,Android,Yes
+AY544,37,No,16,28.1,Philadelphia,PA,Android,Yes
+RP632,40,No,11,28,Seattle,WA,iOS,Yes
+BY676,38,No,18,27.84,Phoenix,AZ,iOS,Yes
+LR568,31,No,12,27.8,Dallas,TX,iOS,No
+HO342,41,No,27,27.74,Chicago,IL,Windows,Yes
+VJ541,37,Yes,19,27.7,Fort Worth,TX,Windows,Yes
+ER197,39,No,36,27.7,Washington,DC,iOS,No
+FE524,43,No,22,27.61,Charlotte,NC,Android,No
+RH145,32,No,3,27.61,Washington,DC,Android,Yes
+ZR938,27,No,30,27.46,Dallas,TX,Windows,Yes
+KW634,27,No,36,27.44,Fort Worth,TX,Android,Yes
+VP591,44,No,40,27.39,Philadelphia,PA,iOS,Yes
+IX480,32,Yes,34,27.28,Houston,TX,Android,No
+OW820,36,No,8,27.25,Phoenix,AZ,Android,Yes
+NO812,59,Yes,7,27.19,Chicago,IL,Windows,No
+RX832,41,No,4,27.16,Columbus,OH,Android,No
+WV584,35,Yes,15,27.14,San Francisco,CA,Windows,Yes
+SZ861,23,Yes,34,27.11,San Diego,CA,Android,Yes
+DB191,32,Yes,12,27.1,San Francisco,CA,Windows,Yes
+CF115,48,No,4,27.04,New York,NY,Android,No
+XJ776,46,Yes,5,27.02,Columbus,OH,Android,Yes
+XE842,29,No,39,26.96,Seattle,WA,Windows,Yes
+ED424,30,No,14,26.93,Charlotte,NC,Android,No
+BH858,50,No,36,26.82,Jacksonville,FL,Android,Yes
+ZZ275,35,No,25,26.8,Los Angeles,CA,Android,No
+VX218,23,Yes,24,26.74,Charlotte,NC,iOS,No
+DY585,32,No,31,26.71,San Diego,CA,Windows,Yes
+MU474,38,Yes,40,26.71,San Diego,CA,Android,No
+TI736,23,No,33,26.68,Dallas,TX,Windows,No
+JT896,33,No,14,26.61,New York,NY,Android,No
+DB116,42,Yes,33,26.6,Los Angeles,CA,iOS,Yes
+PP893,29,No,17,26.58,New York,NY,iOS,No
+NS852,44,No,16,26.56,Columbus,OH,Android,Yes
+YZ457,46,No,3,26.55,Washington,DC,Android,Yes
+IY367,38,Yes,15,26.54,Fort Worth,TX,iOS,No
+GK817,23,No,35,26.51,Chicago,IL,iOS,Yes
+AO219,42,Yes,28,26.46,San Francisco,CA,Windows,Yes
+BJ291,42,No,26,26.45,New York,NY,Windows,Yes
+QM374,23,Yes,26,26.45,Los Angeles,CA,iOS,Yes
+QX767,45,Yes,22,26.43,Philadelphia,PA,Android,No
+XD987,30,No,22,26.41,San Diego,CA,Windows,No
+WM376,45,No,3,26.39,Washington,DC,Windows,No
+EX459,30,No,38,26.33,San Jose,CA,iOS,No
+IG650,35,Yes,24,26.32,Seattle,WA,iOS,No
+OZ350,41,No,11,26.28,Columbus,OH,Android,Yes
+LA914,23,Yes,13,26.25,Houston,TX,Windows,No
+RG195,40,No,4,26.18,Los Angeles,CA,Android,No
+QY307,31,No,24,26.16,Jacksonville,FL,Windows,Yes
+PY817,23,No,16,26.07,Denver,CO,Windows,Yes
+IM903,28,No,19,25.87,San Jose,CA,Windows,No
+MF448,32,Yes,38,25.85,Phoenix,AZ,iOS,No
+ID503,29,No,9,25.77,Philadelphia,PA,iOS,Yes
+HK802,34,Yes,29,25.77,Houston,TX,Android,No
+XR536,38,No,34,25.69,San Antonio,TX,iOS,Yes
+MO356,28,No,20,25.62,Austin,TX,iOS,No
+IO780,23,No,34,25.6,Fort Worth,TX,Windows,Yes
+BE213,42,Yes,17,25.58,Phoenix,AZ,Android,No
+VY255,29,Yes,9,25.53,Columbus,OH,Windows,Yes
+AX792,34,Yes,10,25.52,Dallas,TX,Windows,Yes
+QY612,27,No,40,25.51,Fort Worth,TX,Android,No
+IG717,30,No,35,25.49,Dallas,TX,iOS,Yes
+IG455,28,No,27,25.45,San Diego,CA,Windows,Yes
+CJ796,45,Yes,39,25.39,San Jose,CA,iOS,Yes
+SJ497,47,No,3,25.34,Fort Worth,TX,Windows,Yes
+DB470,35,Yes,7,25.34,Charlotte,NC,Windows,Yes
+GB468,23,No,11,25.31,Philadelphia,PA,iOS,Yes
+SB942,23,No,32,25.24,Los Angeles,CA,Windows,Yes
+ZU279,23,Yes,12,25.2,Chicago,IL,iOS,Yes
+FQ150,27,Yes,12,25.18,Phoenix,AZ,Windows,Yes
+GU161,31,No,37,25.16,Denver,CO,iOS,Yes
+FF880,36,No,9,25.04,Phoenix,AZ,iOS,No
+LH281,25,No,33,25.02,Phoenix,AZ,iOS,Yes
+YG228,47,No,9,25.02,Dallas,TX,iOS,Yes
+VR235,29,No,36,24.9,San Francisco,CA,Android,No
+OX403,38,No,16,24.84,Denver,CO,Windows,Yes
+JX818,36,No,16,24.8,Jacksonville,FL,iOS,Yes
+YT666,23,Yes,36,24.78,Dallas,TX,Windows,No
+QP530,28,No,11,24.78,Washington,DC,Windows,No
+OT628,25,No,551,24.77,Denver,CO,iOS,Yes
+ZW901,34,Yes,34,24.76,Denver,CO,Windows,Yes
+SX803,37,No,21,24.7,Denver,CO,iOS,No
+OO909,52,No,3,24.64,San Diego,CA,Windows,Yes
+BS661,31,No,25,24.59,Fort Worth,TX,Android,Yes
+SB345,37,No,21,24.5,Chicago,IL,iOS,No
+YW213,50,No,5,24.47,Columbus,OH,Android,Yes
+RJ287,27,No,25,24.41,Washington,DC,Android,No
+EM313,37,No,34,24.34,Fort Worth,TX,iOS,No
+PV937,42,No,24,24.32,Austin,TX,Windows,Yes
+AX442,35,No,10,24.3,Washington,DC,Android,Yes
+XK502,37,No,29,24.26,Dallas,TX,iOS,No
+EM631,47,No,24,24.25,Philadelphia,PA,Android,No
+TW103,26,Yes,20,24.23,Jacksonville,FL,iOS,No
+PP624,25,No,24,24.21,Indianapolis,IN,iOS,No
+DY603,32,No,32,24.17,Chicago,IL,iOS,No
+VV161,31,No,24,24.14,Seattle,WA,iOS,Yes
+TK761,50,No,17,24.11,Charlotte,NC,Windows,No
+LY120,23,Yes,21,24.09,Los Angeles,CA,Android,Yes
+AK547,43,Yes,9,24.04,Indianapolis,IN,Android,Yes
+IU989,40,No,18,23.97,Washington,DC,iOS,No
+QR484,45,No,8,23.77,Denver,CO,Windows,No
+OG672,40,No,35,23.67,Seattle,WA,iOS,Yes
+YR607,38,Yes,19,23.63,Chicago,IL,Windows,Yes
+GF162,40,Yes,13,23.51,Charlotte,NC,Windows,Yes
+GI166,38,No,25,23.5,Philadelphia,PA,iOS,Yes
+IX172,35,No,3,23.47,Seattle,WA,Windows,No
+PL834,44,No,18,23.46,Columbus,OH,iOS,Yes
+KZ402,38,Yes,30,23.41,San Francisco,CA,Android,Yes
+RC417,26,No,6,23.39,San Francisco,CA,iOS,No
+KJ430,29,Yes,21,23.39,Dallas,TX,Windows,Yes
+JE467,25,Yes,10,23.38,Charlotte,NC,Android,Yes
+SE409,30,No,19,23.35,Chicago,IL,Windows,No
+CE742,47,Yes,30,23.32,San Jose,CA,Windows,No
+FC164,30,Yes,27,23.25,Denver,CO,Windows,Yes
+WG602,36,No,31,23.07,Los Angeles,CA,Android,No
+WA116,35,No,14,23.04,San Diego,CA,iOS,Yes
+ZJ711,23,No,3,22.97,Seattle,WA,Android,Yes
+PH562,35,No,8,22.96,Jacksonville,FL,Windows,Yes
+GU866,35,No,39,22.95,Indianapolis,IN,Windows,Yes
+TE145,47,No,26,22.93,Jacksonville,FL,iOS,Yes
+SY665,46,No,3,22.92,Phoenix,AZ,iOS,Yes
+NC309,28,No,15,22.85,Austin,TX,iOS,Yes
+KV189,23,Yes,33,22.84,Charlotte,NC,Windows,No
+WW258,25,No,12,22.82,Chicago,IL,Windows,Yes
+KL984,34,No,39,22.81,Charlotte,NC,Android,Yes
+ZX741,25,No,37,22.75,Philadelphia,PA,Windows,Yes
+GA119,55,No,11,22.75,New York,NY,Windows,No
+UT995,32,Yes,26,22.71,San Diego,CA,Android,Yes
+YS964,29,No,39,22.63,Seattle,WA,Windows,No
+XD499,25,Yes,33,22.52,Denver,CO,Android,Yes
+ES761,26,No,25,22.47,San Francisco,CA,Android,No
+VP818,42,No,37,22.39,Los Angeles,CA,iOS,Yes
+IT670,23,Yes,22,22.35,San Jose,CA,Android,Yes
+GG953,41,No,29,22.33,New York,NY,Windows,Yes
+UX330,55,No,34,22.31,Houston,TX,Android,No
+AJ443,44,No,7,22.29,Columbus,OH,Windows,Yes
+GW253,23,No,23,22.26,Los Angeles,CA,Android,Yes
+EW224,23,No,26,22.22,Washington,DC,Windows,Yes
+TC497,24,Yes,19,22.17,Austin,TX,Windows,No
+CD149,27,No,20,22.15,San Jose,CA,Windows,Yes
+ZE481,38,No,33,22.12,San Francisco,CA,Android,Yes
+QY947,37,No,36,22.1,Phoenix,AZ,Windows,Yes
+LS956,34,No,20,22.04,Jacksonville,FL,Android,Yes
+NG876,23,No,36,21.95,Los Angeles,CA,iOS,Yes
+RN718,42,No,4,21.91,San Diego,CA,Android,Yes
+OZ821,23,Yes,18,21.86,Houston,TX,Windows,Yes
+SL193,34,No,11,21.86,Chicago,IL,Android,Yes
+FD760,43,No,37,21.69,Washington,DC,Windows,Yes
+WQ679,23,No,31,21.67,Fort Worth,TX,iOS,No
+LK724,40,No,29,21.66,Jacksonville,FL,iOS,Yes
+XA288,35,No,34,21.64,Philadelphia,PA,Windows,Yes
+ER385,38,Yes,19,21.64,San Antonio,TX,iOS,Yes
+UG809,23,No,26,21.61,Chicago,IL,Windows,No
+PU249,53,No,39,21.58,Los Angeles,CA,Android,Yes
+UV883,28,No,10,21.57,San Antonio,TX,Windows,Yes
+CW143,34,Yes,33,21.52,Charlotte,NC,Windows,Yes
+JJ918,27,No,6,21.5,Washington,DC,Android,No
+GM404,26,Yes,39,21.5,New York,NY,Android,No
+VM902,44,Yes,12,21.48,Charlotte,NC,Android,Yes
+BO879,34,Yes,39,21.43,New York,NY,Android,Yes
+KQ701,35,No,6,21.38,Phoenix,AZ,iOS,No
+ZG454,29,No,30,21.36,Los Angeles,CA,Windows,Yes
+IC676,51,No,6,21.34,New York,NY,Android,Yes
+MP554,44,No,29,21.33,Phoenix,AZ,Android,Yes
+XT149,26,No,23,21.3,San Francisco,CA,iOS,Yes
+RA512,32,No,5,21.25,Fort Worth,TX,Windows,Yes
+FR467,30,Yes,12,21.24,Dallas,TX,Android,No
+DK422,31,No,25,21.13,Fort Worth,TX,Android,Yes
+GQ816,50,Yes,19,21.08,Los Angeles,CA,iOS,No
+CP718,37,Yes,27,21.01,San Francisco,CA,Windows,Yes
+ED420,28,No,31,20.97,Washington,DC,iOS,No
+VG924,38,Yes,37,20.95,Washington,DC,Android,Yes
+DR862,34,No,7,20.92,San Antonio,TX,Windows,Yes
+FS445,32,Yes,26,20.86,Columbus,OH,Windows,Yes
+AI295,27,Yes,5,20.81,San Antonio,TX,iOS,Yes
+ZC366,43,No,4,20.78,Austin,TX,iOS,Yes
+SW553,28,No,20,20.78,New York,NY,Android,Yes
+TG371,37,Yes,7,20.71,Washington,DC,Windows,Yes
+YQ567,46,No,36,20.66,San Diego,CA,iOS,No
+SC758,42,Yes,17,20.43,Phoenix,AZ,Windows,No
+MK133,23,Yes,24,20.43,Phoenix,AZ,Windows,Yes
+VA784,44,No,26,20.41,Indianapolis,IN,Android,Yes
+RO935,24,Yes,5,20.39,Columbus,OH,Windows,No
+UK547,31,No,29,20.35,Charlotte,NC,iOS,No
+RP523,34,No,40,20.3,Seattle,WA,iOS,Yes
+HD510,37,No,34,20.25,San Diego,CA,iOS,Yes
+SU408,33,No,38,20.23,Los Angeles,CA,Android,Yes
+KV277,44,Yes,12,20.11,Chicago,IL,iOS,No
+FP676,36,Yes,36,20.1,Washington,DC,Android,Yes
+UX820,29,Yes,14,20.06,Phoenix,AZ,iOS,No
+RR234,53,No,5,20.02,Indianapolis,IN,Android,No
+KO467,35,No,30,20.01,Los Angeles,CA,iOS,No
+KI608,37,No,27,20.01,Charlotte,NC,Windows,No
