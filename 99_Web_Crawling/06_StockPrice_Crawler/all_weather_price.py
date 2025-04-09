@@ -14,6 +14,7 @@ nameList = [
     'iShares 20+ Year Treasury Bond ETF', 
     'iShares 7-10 Year Treasury Bond ETF',
     'Vanguard Total World Stock ETF',
+    'Vanguard S&P 500 ETF',
     'iShares Gold Trust',
     'Invesco DB Commodity Tracking',
     'PIMCO 15Y US TIPS ETF'
@@ -24,6 +25,7 @@ tickerList = [
     'TLT', 
     'IEF',
     'VT',
+    'VOO',
     'IAU',
     'DBC',
     'LTPZ'
