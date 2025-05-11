@@ -96,6 +96,7 @@ resultDf.rename(columns={'index':'DATE'}, inplace=True)
 import gspread
 import gspread_dataframe as gd
 from google.oauth2.service_account import Credentials
+from gspread.utils import ValueInputOption
 
 scope = [
     'https://spreadsheets.google.com/feeds',
@@ -106,7 +107,7 @@ path = os.path.dirname(__file__)
 js = os.path.join(path, 'my-project-1550060360364-f758ca00dc50.json')
 credentials = Credentials.from_service_account_file(js, scopes=scope)
 
-gc = gspread.authorize(credentials)
+gc = gspread.service_account(js)
 
 spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1m5ztJoiMNptV5NFB1fauCVx4F6RB3ecHRG3fNolDp_U/'
 doc = gc.open_by_url(spreadsheetUrl)
@@ -155,7 +156,7 @@ if n > 0:
     update_range = 'A' + str(last_row + 1) + ':' + 'A' + str(last_row + n)
     date_list = resultDf['Date'][-n:].to_list()
     date_list = [[date.strftime('%Y-%m-%d %H:%M:%S.%f')] for date in date_list]
-    worksheet.update(range_name=update_range, values=date_list, value_input_option='USER_ENTERED')
+    worksheet.update(range_name=update_range, values=date_list, value_input_option=ValueInputOption.user_entered)
 
     body = {
         'requests': [
