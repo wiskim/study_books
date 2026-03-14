@@ -75,6 +75,7 @@ for i in range(0, len(tickerList)):
         tickerList[i], '2025-12-31', today
     )
     priceList = priceList['AdjClose']
+    priceList = priceList[~priceList.index.duplicated(keep='last')]
     resultDf[tickerList[i]] = priceList
 
 # %%
