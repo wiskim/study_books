@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-import warnings
 import os
 import datetime
 from tabulate import tabulate
@@ -42,10 +41,8 @@ ticker_list = [
 
 result_df = pd.DataFrame()
 
-warnings.filterwarnings('ignore', category=UserWarning, module='bs4')
-
 for i in range(len(ticker_list)):
-    
+
     url = 'https://fchart.stock.naver.com/sise.nhn'
     params = {
         'symbol': ticker_list[i],
@@ -54,7 +51,7 @@ for i in range(len(ticker_list)):
         'requestType': 0
     }
     response = requests.get(url, params)
-    soup = BeautifulSoup(response.text, 'lxml')
+    soup = BeautifulSoup(response.text, 'xml')
     
     item_list = soup.find_all('item')
     ohlc_list = []
